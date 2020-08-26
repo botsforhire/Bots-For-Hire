@@ -100,7 +100,7 @@ class HomePage extends React.Component{
               <h3>India Army</h3>
             </div>
             <div className="bot">
-              <img src="https://cdn.discordapp.com/app-icons/744585617165385809/8750941feabc15b59bee8bb11c62f6d6.png?size=256"/>
+              <img src="https://cdn.discordapp.com/app-icons/744585617165385809/110aaa102fda92a90c148413d0f93778.png?size=256"/>
               <h3>Adithya's Bot</h3>
             </div>
             <p>And more+</p>

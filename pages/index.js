@@ -74,6 +74,7 @@ class HomePage extends React.Component{
           <p>Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans.</p>
 
           <a href="#pricing"><button>Pricing</button></a>
+          <a href="https://www.producthunt.com/posts/bots-for-hire"><button>Product Hunt</button></a>
         </div>
 
         <div className="content">
@@ -105,7 +106,14 @@ class HomePage extends React.Component{
             </div>
             <p>And more+</p>
           </div>
-
+          <div id="partners" style={{'borderBottom': '2px solid'}}>
+            <h1>Partners</h1>
+            <h3>Bot Developers Hangout</h3>
+            <p>A great place to find bot developers!</p>
+            <br/>
+            <a href="https://discord.gg/d6k29Eb"><button>Join</button></a>
+            <br/>
+          </div>
           <div id="pricing">
             <h1>Pricing</h1>
             <div className="price">

@@ -1990,7 +1990,7 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
     }, "Bots For Hire")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
       id: "552138678",
       __self: this
-    }, ".container.jsx-552138678{width:100%;height:100%;background-color:#50c878;}.header.jsx-552138678{background-color:#50c878;text-align:center;width:95%;padding:10px 10px;border-bottom:2px solid black;}.content.jsx-552138678{text-align:center;}#bots.jsx-552138678{border-bottom:2px solid black;padding:10px 10px;}.bot.jsx-552138678{padding:5px 5px;width:150px;border:2px solid;display:inline-block;margin-left:5px;margin-bottom:2px;}.bot.jsx-552138678 img.jsx-552138678{width:50px;height:50px;border-radius:50%;}.price.jsx-552138678{width:200px;height:250px;background-color:whitesmoke;padding:10px 10px;border:1px solid;border-radius:20px;display:inline-block;margin-left:5px;margin-bottom:2px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3J1bm5lci9Cb3RzLUZvci1IaXJlL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWdCa0IsQUFHc0IsQUFLYyxBQVFQLEFBSVksQUFLZCxBQVdMLEFBT0MsV0F2Q0EsQUFpQ0EsQ0FPQyxJQWpCRCxFQVZkLEtBWjJCLEFBa0NQLEVBOUJBLEFBb0NVLEdBakJYLEVBUEMsV0FtQnBCLEVBOUJZLEVBbUJXLEdBdkJ2QixBQWdCQSxLQVhvQixBQW1DQSxhQWZGLEtBbkJjLEFBb0NiLFdBaEJDLE1BaUJDLFlBaEJyQixDQXBCQSxNQXNDdUIscUJBQ0wsZ0JBQ0Usa0JBQ3BCIiwiZmlsZSI6Ii9ob21lL3J1bm5lci9Cb3RzLUZvci1IaXJlL3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEhlYWQgZnJvbSBcIm5leHQvaGVhZFwiXG5pbXBvcnQgTGF5b3V0IGZyb20gXCIuLi9jb21wb25lbnRzL0xheW91dC5qc1wiXG5pbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCJcblxuY2xhc3MgSG9tZVBhZ2UgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnR7XG4gIGNvbnN0cnVjdG9yKHByb3BzKXtcbiAgICBzdXBlcihwcm9wcylcbiAgfVxuXG4gIHJlbmRlcigpe1xuICAgIHJldHVybiAoXG4gICAgICA8TGF5b3V0PlxuICAgICAgPGhlYWQ+XG4gICAgICAgIDxzdHlsZT57J2JvZHkgeyBiYWNrZ3JvdW5kLWNvbG9yOiAjNTBjODc4OyB9J308L3N0eWxlPlxuICAgICAgICA8dGl0bGU+Qm90cyBGb3IgSGlyZTwvdGl0bGU+XG4gICAgICA8L2hlYWQ+XG4gICAgICA8c3R5bGUganN4PntgXG4gICAgICAgIC5jb250YWluZXJ7XG4gICAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgICAgaGVpZ2h0OiAxMDAlO1xuICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICM1MGM4Nzg7XG4gICAgICAgIH1cbiAgICAgICAgLmhlYWRlcntcbiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjNTBjODc4O1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICB3aWR0aDogOTUlO1xuICAgICAgICAgIHBhZGRpbmc6IDEwcHggMTBweDtcbiAgICAgICAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgYmxhY2s7XG4gICAgICAgIH1cbiAgICAgICAgXG4gICAgICAgIC5jb250ZW50e1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgfVxuXG4gICAgICAgICNib3Rze1xuICAgICAgICAgIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCBibGFjaztcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4IDEwcHg7XG4gICAgICAgIH1cblxuICAgICAgICAuYm90e1xuICAgICAgICAgIHBhZGRpbmc6IDVweCA1cHg7XG5cbiAgICAgICAgICB3aWR0aDogMTUwcHg7XG4gICAgICAgICAgYm9yZGVyOiAycHggc29saWQ7XG4gICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuXG4gICAgICAgICAgbWFyZ2luLWxlZnQ6IDVweDtcbiAgICAgICAgICBtYXJnaW4tYm90dG9tOiAycHg7XG4gICAgICAgIH1cblxuICAgICAgICAuYm90IGltZ3tcbiAgICAgICAgICB3aWR0aDogNTBweDtcbiAgICAgICAgICBoZWlnaHQ6IDUwcHg7XG5cbiAgICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7XG4gICAgICAgIH1cblxuICAgICAgICAucHJpY2V7XG4gICAgICAgICAgd2lkdGg6IDIwMHB4O1xuICAgICAgICAgIGhlaWdodDogMjUwcHg7XG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGVzbW9rZTtcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4IDEwcHg7XG5cbiAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZDtcbiAgICAgICAgICBib3JkZXItcmFkaXVzOiAyMHB4O1xuXG4gICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICAgICAgICAgIG1hcmdpbi1sZWZ0OiA1cHg7XG4gICAgICAgICAgbWFyZ2luLWJvdHRvbTogMnB4O1xuICAgICAgICB9XG4gICAgICBgfTwvc3R5bGU+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVhZGVyXCI+XG4gICAgICAgICAgPGgxPkRpc2NvcmQgQm90cyBmb3IgSGlyZTwvaDE+XG4gICAgICAgICAgPHA+V2FudCBhIGN1c3RvbSBkaXNjb3JkIGJvdCBmb3IgeW91ciBzZXJ2ZXI/IFdlbGwgd2UgY3JlYXRlIGRpc2NvcmQgYm90cyBmb3IgRlJFRSBqdXN0IGNoZWNrIG91dCBvdXIgcGxhbnMuPC9wPlxuXG4gICAgICAgICAgPGEgaHJlZj1cIiNwcmljaW5nXCI+PGJ1dHRvbj5QcmljaW5nPC9idXR0b24+PC9hPlxuICAgICAgICA8L2Rpdj5cblxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbnRlbnRcIj5cbiAgICAgICAgICA8ZGl2IGlkPVwiYm90c1wiPlxuICAgICAgICAgICAgPGgxPk91ciBCb3RzPC9oMT5cbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYm90XCI+XG4gICAgICAgICAgICAgIDxpbWcgc3JjPVwiaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy83MzAwOTM3MzIyNzkzNTM0MTQvNWY2NjU2MzhlYjlhMDM4ZTdjZTJkYTIxODAwNmE0YjYucG5nP3NpemU9MjU2XCIvPlxuICAgICAgICAgICAgICA8aDM+Tm9vYml0PC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJib3RcIj5cbiAgICAgICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hdmF0YXJzLzczNTkyMzQ5MjAwNDAzNjY4MS85Yzk3NjVjN2YyMTE4MmQwM2Y0ZjdjOTk3MjgxNzkwMi5wbmc/c2l6ZT0yNTZcIi8+XG4gICAgICAgICAgICAgIDxoMz5MdWllPC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYm90XCI+XG4gICAgICAgICAgICAgIDxpbWcgc3JjPVwiaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXBwLWljb25zLzczODQ4NjM2OTk2MTI0Njc1MS8zMjY4ODZlYmQwYzQ5ZTNmZWQ4MTU3NzBkZTljMTBhZS5wbmc/c2l6ZT0yNTZcIi8+XG4gICAgICAgICAgICAgIDxoMz5BRkEgQUJJTElUSUVTPC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJib3RcIj5cbiAgICAgICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hcHAtaWNvbnMvNzM5ODg2Nzk0NjQ4MDU5OTg1LzEzZDg1MGEwMjdhODMzNjQzZDAzYjRkNDJkMjUwNzI0LnBuZz9zaXplPTI1NlwiLz5cbiAgICAgICAgICAgICAgPGgzPkFpbUJvdCBVdGlsaWVzPC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJib3RcIj5cbiAgICAgICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hcHAtaWNvbnMvNzQzODY2NTkzMjY3ODEwMzg0L2IyZmEwZjNhYjgyOWVmOWY2NzViYTBlZDk5Yjg1YmZlLnBuZz9zaXplPTI1NlwiLz5cbiAgICAgICAgICAgICAgPGgzPkluZGlhIEFybXk8L2gzPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImJvdFwiPlxuICAgICAgICAgICAgICA8aW1nIHNyYz1cImh0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL2FwcC1pY29ucy83NDQ1ODU2MTcxNjUzODU4MDkvMTEwYWFhMTAyZmRhOTJhOTBjMTQ4NDEzZDBmOTM3NzgucG5nP3NpemU9MjU2XCIvPlxuICAgICAgICAgICAgICA8aDM+QWRpdGh5YSdzIEJvdDwvaDM+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgIDxwPkFuZCBtb3JlKzwvcD5cbiAgICAgICAgICA8L2Rpdj5cblxuICAgICAgICAgIDxkaXYgaWQ9XCJwcmljaW5nXCI+XG4gICAgICAgICAgICA8aDE+UHJpY2luZzwvaDE+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInByaWNlXCI+XG4gICAgICAgICAgICAgIDxoMz5GUkVFPC9oMz5cbiAgICAgICAgICAgICAgPHA+VGhpcyBwbGFuIGluY2x1ZGVzIGEgYmFzaWMgZGlzY29yZCBib3Qgd2l0aCBtb2RlcmF0aW9uLCBmdW4sIGluZm8gY29tbWFuZHMuIEhvc3RzIGZvciAyNC83IHdpdGggbm8gZG93bnRpbWUuIDwvcD5cbiAgICAgICAgICAgICAgPGEgaHJlZj1cIi9mYXFcIj48YnV0dG9uPkdldCBTdGFydGVkPC9idXR0b24+PC9hPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInByaWNlXCI+XG4gICAgICAgICAgICAgIDxoMz5QcmVtaXVtPC9oMz5cbiAgICAgICAgICAgICAgPHA+RXZlcnl0aGluZyBmcm9tIGZyZWUgcGx1cyBtdXNpYywgY3VzdG9tIGNvbW1hbmRzLCBjdXN0b20gbW9kZXJhdGlvbiBzeXN0ZW08L3A+XG4gICAgICAgICAgICAgIDxici8+XG4gICAgICAgICAgICAgIDxici8+XG4gICAgICAgICAgICAgIDxhIGhyZWY9XCIvZmFxXCI+PGJ1dHRvbj5Db250YWN0IFVzPC9idXR0b24+PC9hPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgPC9kaXY+XG4gICAgICAgIDwvZGl2PlxuICAgICAgPC9MYXlvdXQ+XG4gICAgKVxuICB9XG59XG5cbmV4cG9ydCBkZWZhdWx0IEhvbWVQYWdlIl19 */\n/*@ sourceURL=/home/runner/Bots-For-Hire/pages/index.js */"), __jsx("div", {
+    }, ".container.jsx-552138678{width:100%;height:100%;background-color:#50c878;}.header.jsx-552138678{background-color:#50c878;text-align:center;width:95%;padding:10px 10px;border-bottom:2px solid black;}.content.jsx-552138678{text-align:center;}#bots.jsx-552138678{border-bottom:2px solid black;padding:10px 10px;}.bot.jsx-552138678{padding:5px 5px;width:150px;border:2px solid;display:inline-block;margin-left:5px;margin-bottom:2px;}.bot.jsx-552138678 img.jsx-552138678{width:50px;height:50px;border-radius:50%;}.price.jsx-552138678{width:200px;height:250px;background-color:whitesmoke;padding:10px 10px;border:1px solid;border-radius:20px;display:inline-block;margin-left:5px;margin-bottom:2px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3J1bm5lci9Cb3RzLUZvci1IaXJlL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWdCa0IsQUFHc0IsQUFLYyxBQVFQLEFBSVksQUFLZCxBQVdMLEFBT0MsV0F2Q0EsQUFpQ0EsQ0FPQyxJQWpCRCxFQVZkLEtBWjJCLEFBa0NQLEVBOUJBLEFBb0NVLEdBakJYLEVBUEMsV0FtQnBCLEVBOUJZLEVBbUJXLEdBdkJ2QixBQWdCQSxLQVhvQixBQW1DQSxhQWZGLEtBbkJjLEFBb0NiLFdBaEJDLE1BaUJDLFlBaEJyQixDQXBCQSxNQXNDdUIscUJBQ0wsZ0JBQ0Usa0JBQ3BCIiwiZmlsZSI6Ii9ob21lL3J1bm5lci9Cb3RzLUZvci1IaXJlL3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEhlYWQgZnJvbSBcIm5leHQvaGVhZFwiXG5pbXBvcnQgTGF5b3V0IGZyb20gXCIuLi9jb21wb25lbnRzL0xheW91dC5qc1wiXG5pbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCJcblxuY2xhc3MgSG9tZVBhZ2UgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnR7XG4gIGNvbnN0cnVjdG9yKHByb3BzKXtcbiAgICBzdXBlcihwcm9wcylcbiAgfVxuXG4gIHJlbmRlcigpe1xuICAgIHJldHVybiAoXG4gICAgICA8TGF5b3V0PlxuICAgICAgPGhlYWQ+XG4gICAgICAgIDxzdHlsZT57J2JvZHkgeyBiYWNrZ3JvdW5kLWNvbG9yOiAjNTBjODc4OyB9J308L3N0eWxlPlxuICAgICAgICA8dGl0bGU+Qm90cyBGb3IgSGlyZTwvdGl0bGU+XG4gICAgICA8L2hlYWQ+XG4gICAgICA8c3R5bGUganN4PntgXG4gICAgICAgIC5jb250YWluZXJ7XG4gICAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgICAgaGVpZ2h0OiAxMDAlO1xuICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICM1MGM4Nzg7XG4gICAgICAgIH1cbiAgICAgICAgLmhlYWRlcntcbiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjNTBjODc4O1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICB3aWR0aDogOTUlO1xuICAgICAgICAgIHBhZGRpbmc6IDEwcHggMTBweDtcbiAgICAgICAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgYmxhY2s7XG4gICAgICAgIH1cbiAgICAgICAgXG4gICAgICAgIC5jb250ZW50e1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgfVxuXG4gICAgICAgICNib3Rze1xuICAgICAgICAgIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCBibGFjaztcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4IDEwcHg7XG4gICAgICAgIH1cblxuICAgICAgICAuYm90e1xuICAgICAgICAgIHBhZGRpbmc6IDVweCA1cHg7XG5cbiAgICAgICAgICB3aWR0aDogMTUwcHg7XG4gICAgICAgICAgYm9yZGVyOiAycHggc29saWQ7XG4gICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuXG4gICAgICAgICAgbWFyZ2luLWxlZnQ6IDVweDtcbiAgICAgICAgICBtYXJnaW4tYm90dG9tOiAycHg7XG4gICAgICAgIH1cblxuICAgICAgICAuYm90IGltZ3tcbiAgICAgICAgICB3aWR0aDogNTBweDtcbiAgICAgICAgICBoZWlnaHQ6IDUwcHg7XG5cbiAgICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7XG4gICAgICAgIH1cblxuICAgICAgICAucHJpY2V7XG4gICAgICAgICAgd2lkdGg6IDIwMHB4O1xuICAgICAgICAgIGhlaWdodDogMjUwcHg7XG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGVzbW9rZTtcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4IDEwcHg7XG5cbiAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZDtcbiAgICAgICAgICBib3JkZXItcmFkaXVzOiAyMHB4O1xuXG4gICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICAgICAgICAgIG1hcmdpbi1sZWZ0OiA1cHg7XG4gICAgICAgICAgbWFyZ2luLWJvdHRvbTogMnB4O1xuICAgICAgICB9XG4gICAgICBgfTwvc3R5bGU+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVhZGVyXCI+XG4gICAgICAgICAgPGgxPkRpc2NvcmQgQm90cyBmb3IgSGlyZTwvaDE+XG4gICAgICAgICAgPHA+V2FudCBhIGN1c3RvbSBkaXNjb3JkIGJvdCBmb3IgeW91ciBzZXJ2ZXI/IFdlbGwgd2UgY3JlYXRlIGRpc2NvcmQgYm90cyBmb3IgRlJFRSBqdXN0IGNoZWNrIG91dCBvdXIgcGxhbnMuPC9wPlxuXG4gICAgICAgICAgPGEgaHJlZj1cIiNwcmljaW5nXCI+PGJ1dHRvbj5QcmljaW5nPC9idXR0b24+PC9hPlxuICAgICAgICAgIDxhIGhyZWY9XCJodHRwczovL3d3dy5wcm9kdWN0aHVudC5jb20vcG9zdHMvYm90cy1mb3ItaGlyZVwiPjxidXR0b24+UHJvZHVjdCBIdW50PC9idXR0b24+PC9hPlxuICAgICAgICA8L2Rpdj5cblxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbnRlbnRcIj5cbiAgICAgICAgICA8ZGl2IGlkPVwiYm90c1wiPlxuICAgICAgICAgICAgPGgxPk91ciBCb3RzPC9oMT5cbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYm90XCI+XG4gICAgICAgICAgICAgIDxpbWcgc3JjPVwiaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy83MzAwOTM3MzIyNzkzNTM0MTQvNWY2NjU2MzhlYjlhMDM4ZTdjZTJkYTIxODAwNmE0YjYucG5nP3NpemU9MjU2XCIvPlxuICAgICAgICAgICAgICA8aDM+Tm9vYml0PC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJib3RcIj5cbiAgICAgICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hdmF0YXJzLzczNTkyMzQ5MjAwNDAzNjY4MS85Yzk3NjVjN2YyMTE4MmQwM2Y0ZjdjOTk3MjgxNzkwMi5wbmc/c2l6ZT0yNTZcIi8+XG4gICAgICAgICAgICAgIDxoMz5MdWllPC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYm90XCI+XG4gICAgICAgICAgICAgIDxpbWcgc3JjPVwiaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXBwLWljb25zLzczODQ4NjM2OTk2MTI0Njc1MS8zMjY4ODZlYmQwYzQ5ZTNmZWQ4MTU3NzBkZTljMTBhZS5wbmc/c2l6ZT0yNTZcIi8+XG4gICAgICAgICAgICAgIDxoMz5BRkEgQUJJTElUSUVTPC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJib3RcIj5cbiAgICAgICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hcHAtaWNvbnMvNzM5ODg2Nzk0NjQ4MDU5OTg1LzEzZDg1MGEwMjdhODMzNjQzZDAzYjRkNDJkMjUwNzI0LnBuZz9zaXplPTI1NlwiLz5cbiAgICAgICAgICAgICAgPGgzPkFpbUJvdCBVdGlsaWVzPC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJib3RcIj5cbiAgICAgICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hcHAtaWNvbnMvNzQzODY2NTkzMjY3ODEwMzg0L2IyZmEwZjNhYjgyOWVmOWY2NzViYTBlZDk5Yjg1YmZlLnBuZz9zaXplPTI1NlwiLz5cbiAgICAgICAgICAgICAgPGgzPkluZGlhIEFybXk8L2gzPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImJvdFwiPlxuICAgICAgICAgICAgICA8aW1nIHNyYz1cImh0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL2FwcC1pY29ucy83NDQ1ODU2MTcxNjUzODU4MDkvMTEwYWFhMTAyZmRhOTJhOTBjMTQ4NDEzZDBmOTM3NzgucG5nP3NpemU9MjU2XCIvPlxuICAgICAgICAgICAgICA8aDM+QWRpdGh5YSdzIEJvdDwvaDM+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgIDxwPkFuZCBtb3JlKzwvcD5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8ZGl2IGlkPVwicGFydG5lcnNcIiBzdHlsZT17eydib3JkZXJCb3R0b20nOiAnMnB4IHNvbGlkJ319PlxuICAgICAgICAgICAgPGgxPlBhcnRuZXJzPC9oMT5cbiAgICAgICAgICAgIDxoMz5Cb3QgRGV2ZWxvcGVycyBIYW5nb3V0PC9oMz5cbiAgICAgICAgICAgIDxwPkEgZ3JlYXQgcGxhY2UgdG8gZmluZCBib3QgZGV2ZWxvcGVycyE8L3A+XG4gICAgICAgICAgICA8YnIvPlxuICAgICAgICAgICAgPGEgaHJlZj1cImh0dHBzOi8vZGlzY29yZC5nZy9kNmsyOUViXCI+PGJ1dHRvbj5Kb2luPC9idXR0b24+PC9hPlxuICAgICAgICAgICAgPGJyLz5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8ZGl2IGlkPVwicHJpY2luZ1wiPlxuICAgICAgICAgICAgPGgxPlByaWNpbmc8L2gxPlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJwcmljZVwiPlxuICAgICAgICAgICAgICA8aDM+RlJFRTwvaDM+XG4gICAgICAgICAgICAgIDxwPlRoaXMgcGxhbiBpbmNsdWRlcyBhIGJhc2ljIGRpc2NvcmQgYm90IHdpdGggbW9kZXJhdGlvbiwgZnVuLCBpbmZvIGNvbW1hbmRzLiBIb3N0cyBmb3IgMjQvNyB3aXRoIG5vIGRvd250aW1lLiA8L3A+XG4gICAgICAgICAgICAgIDxhIGhyZWY9XCIvZmFxXCI+PGJ1dHRvbj5HZXQgU3RhcnRlZDwvYnV0dG9uPjwvYT5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJwcmljZVwiPlxuICAgICAgICAgICAgICA8aDM+UHJlbWl1bTwvaDM+XG4gICAgICAgICAgICAgIDxwPkV2ZXJ5dGhpbmcgZnJvbSBmcmVlIHBsdXMgbXVzaWMsIGN1c3RvbSBjb21tYW5kcywgY3VzdG9tIG1vZGVyYXRpb24gc3lzdGVtPC9wPlxuICAgICAgICAgICAgICA8YnIvPlxuICAgICAgICAgICAgICA8YnIvPlxuICAgICAgICAgICAgICA8YSBocmVmPVwiL2ZhcVwiPjxidXR0b24+Q29udGFjdCBVczwvYnV0dG9uPjwvYT5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgIDwvZGl2PlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvTGF5b3V0PlxuICAgIClcbiAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBIb21lUGFnZSJdfQ== */\n/*@ sourceURL=/home/runner/Bots-For-Hire/pages/index.js */"), __jsx("div", {
       className: "jsx-552138678" + " " + "header",
       __source: {
         fileName: _jsxFileName,
@@ -2026,11 +2026,26 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
         lineNumber: 76
       },
       __self: this
-    }, "Pricing"))), __jsx("div", {
+    }, "Pricing")), __jsx("a", {
+      href: "https://www.producthunt.com/posts/bots-for-hire",
+      className: "jsx-552138678",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 77
+      },
+      __self: this
+    }, __jsx("button", {
+      className: "jsx-552138678",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 77
+      },
+      __self: this
+    }, "Product Hunt"))), __jsx("div", {
       className: "jsx-552138678" + " " + "content",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 79
+        lineNumber: 80
       },
       __self: this
     }, __jsx("div", {
@@ -2038,21 +2053,21 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 80
+        lineNumber: 81
       },
       __self: this
     }, __jsx("h1", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 81
+        lineNumber: 82
       },
       __self: this
     }, "Our Bots"), __jsx("div", {
       className: "jsx-552138678" + " " + "bot",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 82
+        lineNumber: 83
       },
       __self: this
     }, __jsx("img", {
@@ -2060,21 +2075,21 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 83
+        lineNumber: 84
       },
       __self: this
     }), __jsx("h3", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 84
+        lineNumber: 85
       },
       __self: this
     }, "Noobit")), __jsx("div", {
       className: "jsx-552138678" + " " + "bot",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 86
+        lineNumber: 87
       },
       __self: this
     }, __jsx("img", {
@@ -2082,21 +2097,21 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 87
+        lineNumber: 88
       },
       __self: this
     }), __jsx("h3", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 88
+        lineNumber: 89
       },
       __self: this
     }, "Luie")), __jsx("div", {
       className: "jsx-552138678" + " " + "bot",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 90
+        lineNumber: 91
       },
       __self: this
     }, __jsx("img", {
@@ -2104,21 +2119,21 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 91
+        lineNumber: 92
       },
       __self: this
     }), __jsx("h3", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 92
+        lineNumber: 93
       },
       __self: this
     }, "AFA ABILITIES")), __jsx("div", {
       className: "jsx-552138678" + " " + "bot",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 94
+        lineNumber: 95
       },
       __self: this
     }, __jsx("img", {
@@ -2126,21 +2141,21 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 95
+        lineNumber: 96
       },
       __self: this
     }), __jsx("h3", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 96
+        lineNumber: 97
       },
       __self: this
     }, "AimBot Utilies")), __jsx("div", {
       className: "jsx-552138678" + " " + "bot",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 98
+        lineNumber: 99
       },
       __self: this
     }, __jsx("img", {
@@ -2148,21 +2163,21 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 99
+        lineNumber: 100
       },
       __self: this
     }), __jsx("h3", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 100
+        lineNumber: 101
       },
       __self: this
     }, "India Army")), __jsx("div", {
       className: "jsx-552138678" + " " + "bot",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 102
+        lineNumber: 103
       },
       __self: this
     }, __jsx("img", {
@@ -2170,25 +2185,28 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 103
+        lineNumber: 104
       },
       __self: this
     }), __jsx("h3", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 104
+        lineNumber: 105
       },
       __self: this
     }, "Adithya's Bot")), __jsx("p", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 106
+        lineNumber: 107
       },
       __self: this
     }, "And more+")), __jsx("div", {
-      id: "pricing",
+      id: "partners",
+      style: {
+        'borderBottom': '2px solid'
+      },
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
@@ -2202,25 +2220,83 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
         lineNumber: 110
       },
       __self: this
-    }, "Pricing"), __jsx("div", {
-      className: "jsx-552138678" + " " + "price",
+    }, "Partners"), __jsx("h3", {
+      className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 111
       },
       __self: this
-    }, __jsx("h3", {
+    }, "Bot Developers Hangout"), __jsx("p", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 112
       },
       __self: this
-    }, "FREE"), __jsx("p", {
+    }, "A great place to find bot developers!"), __jsx("br", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 113
+      },
+      __self: this
+    }), __jsx("a", {
+      href: "https://discord.gg/d6k29Eb",
+      className: "jsx-552138678",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 114
+      },
+      __self: this
+    }, __jsx("button", {
+      className: "jsx-552138678",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 114
+      },
+      __self: this
+    }, "Join")), __jsx("br", {
+      className: "jsx-552138678",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 115
+      },
+      __self: this
+    })), __jsx("div", {
+      id: "pricing",
+      className: "jsx-552138678",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 117
+      },
+      __self: this
+    }, __jsx("h1", {
+      className: "jsx-552138678",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 118
+      },
+      __self: this
+    }, "Pricing"), __jsx("div", {
+      className: "jsx-552138678" + " " + "price",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 119
+      },
+      __self: this
+    }, __jsx("h3", {
+      className: "jsx-552138678",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 120
+      },
+      __self: this
+    }, "FREE"), __jsx("p", {
+      className: "jsx-552138678",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 121
       },
       __self: this
     }, "This plan includes a basic discord bot with moderation, fun, info commands. Hosts for 24/7 with no downtime. "), __jsx("a", {
@@ -2228,49 +2304,49 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 114
+        lineNumber: 122
       },
       __self: this
     }, __jsx("button", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 114
+        lineNumber: 122
       },
       __self: this
     }, "Get Started"))), __jsx("div", {
       className: "jsx-552138678" + " " + "price",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 116
+        lineNumber: 124
       },
       __self: this
     }, __jsx("h3", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 117
+        lineNumber: 125
       },
       __self: this
     }, "Premium"), __jsx("p", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 118
+        lineNumber: 126
       },
       __self: this
     }, "Everything from free plus music, custom commands, custom moderation system"), __jsx("br", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 119
+        lineNumber: 127
       },
       __self: this
     }), __jsx("br", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 120
+        lineNumber: 128
       },
       __self: this
     }), __jsx("a", {
@@ -2278,14 +2354,14 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 121
+        lineNumber: 129
       },
       __self: this
     }, __jsx("button", {
       className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 121
+        lineNumber: 129
       },
       __self: this
     }, "Contact Us"))))));

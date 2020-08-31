@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ 	return __webpack_require__(__webpack_require__.s = 1);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -1185,20 +1185,12 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
         lineNumber: 22
       },
       __self: this
-    }), __jsx("link", {
-      rel: "stylesheet",
-      href: "https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 24
-      },
-      __self: this
     }), __jsx("script", {
       async: true,
       src: "https://www.googletagmanager.com/gtag/js?id=UA-176091657-2",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 26
+        lineNumber: 25
       },
       __self: this
     }), __jsx("script", {
@@ -1212,25 +1204,25 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 31
+        lineNumber: 30
       },
       __self: this
     })), __jsx("body", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 42
+        lineNumber: 41
       },
       __self: this
     }, __jsx(next_document__WEBPACK_IMPORTED_MODULE_1__["Main"], {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 43
+        lineNumber: 42
       },
       __self: this
     }), __jsx(next_document__WEBPACK_IMPORTED_MODULE_1__["NextScript"], {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 44
+        lineNumber: 43
       },
       __self: this
     })));
@@ -1242,7 +1234,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!*********************************************!*\
   !*** multi private-next-pages/_document.js ***!
   \*********************************************/

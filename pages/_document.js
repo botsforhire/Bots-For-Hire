@@ -21,7 +21,6 @@ class DocumentP extends Document {
           <meta name="twitter:image" content="/logos/favicon.png" />
           <meta name="twitter:site" content="@plop_daniel" />
 
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css" />
 
           <script
             async

@@ -1,6 +1,3 @@
-### Bots For Hire
+# Rewrite
 
-This is the official repo for the bots for hire website. It was made in react by [Hackermon](https://github.com/isuckatprogram). It uses [water.css](https://watercss.kognise.dev) made by [Kognise](https://github.com/kognise)
-
-
-# License
+This is the rewrite branch for the website. The branch uses bootstrap instead of water.css and has much pages and stuff.

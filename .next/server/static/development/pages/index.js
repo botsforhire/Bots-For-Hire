@@ -102,125 +102,129 @@ module.exports =
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "styled-jsx/style");
-/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-bootstrap */ "react-bootstrap");
+/* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/home/runner/Bots-For-Hire/components/Layout.js";
 
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
-var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 function Layout(props) {
   return __jsx("div", {
-    className: "jsx-1752686123",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 5
+      lineNumber: 6
     },
     __self: this
-  }, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "1752686123",
-    __self: this
-  }, "#navbar.jsx-1752686123{width:100%;position:absolute;top:0;left:0;background-color:red;color:white;}#navbar.jsx-1752686123 img.jsx-1752686123{width:20px;height:20px;border-radius:50%;vertical-align:0.5%;margin-right:5px;}#navbar.jsx-1752686123 *.jsx-1752686123{display:inline-block;}#navbar.jsx-1752686123 #links.jsx-1752686123{margin-left:29px;}#navbar.jsx-1752686123 #links.jsx-1752686123 a.jsx-1752686123{margin-left:15px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3J1bm5lci9Cb3RzLUZvci1IaXJlL2NvbXBvbmVudHMvTGF5b3V0LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUtnQixBQUdvQixBQVNBLEFBT1UsQUFJSixBQUlBLFdBdkJDLEFBU04sTUFXZCxBQUlBLElBUkEsRUFOb0IsTUFUWixNQUNDLE1BU2EsQ0FSQyxtQkFTSixFQVJMLFlBQ2QsR0FRQSIsImZpbGUiOiIvaG9tZS9ydW5uZXIvQm90cy1Gb3ItSGlyZS9jb21wb25lbnRzL0xheW91dC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMaW5rIGZyb20gXCJuZXh0L2xpbmtcIlxuXG5mdW5jdGlvbiBMYXlvdXQocHJvcHMpe1xuICByZXR1cm4gKFxuICAgIDxkaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgI25hdmJhcntcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgICAgdG9wOiAwO1xuICAgICAgICBsZWZ0OiAwO1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7XG4gICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgIH1cblxuICAgICAgI25hdmJhciBpbWd7XG4gICAgICAgIHdpZHRoOiAyMHB4O1xuICAgICAgICBoZWlnaHQ6IDIwcHg7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDUwJTtcbiAgICAgICAgdmVydGljYWwtYWxpZ246IDAuNSU7XG4gICAgICAgIG1hcmdpbi1yaWdodDogNXB4O1xuICAgICAgfVxuICAgICAgI25hdmJhciAqe1xuICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgICB9XG5cbiAgICAgICNuYXZiYXIgI2xpbmtze1xuICAgICAgICBtYXJnaW4tbGVmdDogMjlweDtcbiAgICAgIH1cblxuICAgICAgI25hdmJhciAjbGlua3MgYXtcbiAgICAgICAgbWFyZ2luLWxlZnQ6IDE1cHg7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICAgICAgPGRpdiBpZD1cIm5hdmJhclwiPlxuICAgICAgICA8aW1nIHNyYz1cIi9sb2dvcy9sb2dvLnBuZ1wiLz5cbiAgICAgICAgPGgyPkJvdHMgRm9yIEhpcmU8L2gyPlxuICAgICAgICA8ZGl2IGlkPVwibGlua3NcIj5cbiAgICAgICAgICA8TGluayBocmVmPVwiL1wiPjxhPkhvbWU8L2E+PC9MaW5rPlxuICAgICAgICAgIDxMaW5rIGhyZWY9XCIvZmFxXCI+PGE+RkFRPC9hPjwvTGluaz5cbiAgICAgICAgPC9kaXY+XG4gICAgICA8L2Rpdj5cbiAgICAgIDxici8+PGJyLz48YnIvPlxuICAgICAgPGRpdiBzdHlsZT17cHJvcHMuc3R5bGV9Pntwcm9wcy5jaGlsZHJlbn08L2Rpdj5cbiAgICAgIDxwPldlJ3JlIG5vdCBhZmZpbGlhdGVkIHdpdGggRGlzY29yZDwvcD5cbiAgICA8L2Rpdj5cbiAgKVxufVxuXG5leHBvcnQgZGVmYXVsdCBMYXlvdXQiXX0= */\n/*@ sourceURL=/home/runner/Bots-For-Hire/components/Layout.js */"), __jsx("div", {
+  }, __jsx("div", {
     id: "navbar",
-    className: "jsx-1752686123",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 7
     },
     __self: this
-  }, __jsx("img", {
-    src: "/logos/logo.png",
-    className: "jsx-1752686123",
+  }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Navbar"], {
+    bg: "light",
+    expand: "lg",
+    sticky: "top",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 8
     },
     __self: this
-  }), __jsx("h2", {
-    className: "jsx-1752686123",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 37
-    },
-    __self: this
-  }, "Bots For Hire"), __jsx("div", {
-    id: "links",
-    className: "jsx-1752686123",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38
-    },
-    __self: this
-  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Navbar"].Brand, {
     href: "/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39
+      lineNumber: 9
     },
     __self: this
-  }, __jsx("a", {
-    className: "jsx-1752686123",
+  }, "Bots For Hire"), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Navbar"].Toggle, {
+    "aria-controls": "basic-navbar-nav",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39
+      lineNumber: 10
     },
     __self: this
-  }, "Home")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  }), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Navbar"].Collapse, {
+    id: "basic-navbar-nav",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"], {
+    className: "mr-auto",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"].Link, {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
+    },
+    __self: this
+  }, "Home"), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"].Link, {
     href: "/faq",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 14
     },
     __self: this
-  }, __jsx("a", {
-    className: "jsx-1752686123",
+  }, "FAQ")), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Button"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 17
     },
     __self: this
-  }, "FAQ")))), __jsx("br", {
-    className: "jsx-1752686123",
+  }, "Contact Us")))), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
-    },
-    __self: this
-  }), __jsx("br", {
-    className: "jsx-1752686123",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 21
     },
     __self: this
   }), __jsx("br", {
-    className: "jsx-1752686123",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 21
+    },
+    __self: this
+  }), __jsx("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
     },
     __self: this
   }), __jsx("div", {
     style: props.style,
-    className: "jsx-1752686123",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 22
     },
     __self: this
-  }, props.children), __jsx("p", {
-    className: "jsx-1752686123",
+  }, props.children), __jsx("footer", {
+    className: "page-footer font-small blue",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 24
     },
     __self: this
-  }, "We're not affiliated with Discord"));
+  }, __jsx("div", {
+    className: "footer-copyright text-center py-3",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    },
+    __self: this
+  }, "We're not affiliated with Discord")));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (Layout);
@@ -1938,433 +1942,297 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "./node_modules/n
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "styled-jsx/style");
-/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/head */ "next/head");
-/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _components_Layout_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Layout.js */ "./components/Layout.js");
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "next/head");
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _components_Layout_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Layout.js */ "./components/Layout.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-bootstrap */ "react-bootstrap");
+/* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__);
 var _jsxFileName = "/home/runner/Bots-For-Hire/pages/index.js";
 
-
-var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
-
+var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 
-class HomePage extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
+
+
+class HomePage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
   constructor(props) {
     super(props);
   }
 
   render() {
-    return __jsx(_components_Layout_js__WEBPACK_IMPORTED_MODULE_3__["default"], {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 12
-      },
-      __self: this
-    }, __jsx("head", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 13
-      },
-      __self: this
-    }, __jsx("style", {
+    return __jsx(_components_Layout_js__WEBPACK_IMPORTED_MODULE_2__["default"], {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 14
       },
       __self: this
-    }, 'body { background-color: #50c878; }'), __jsx("title", {
-      className: "jsx-552138678",
+    }, __jsx("head", {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 15
       },
       __self: this
-    }, "Bots For Hire")), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-      id: "552138678",
-      __self: this
-    }, ".container.jsx-552138678{width:100%;height:100%;background-color:#50c878;}.header.jsx-552138678{background-color:#50c878;text-align:center;width:95%;padding:10px 10px;border-bottom:2px solid black;}.content.jsx-552138678{text-align:center;}#bots.jsx-552138678{border-bottom:2px solid black;padding:10px 10px;}.bot.jsx-552138678{padding:5px 5px;width:150px;border:2px solid;display:inline-block;margin-left:5px;margin-bottom:2px;}.bot.jsx-552138678 img.jsx-552138678{width:50px;height:50px;border-radius:50%;}.price.jsx-552138678{width:200px;height:250px;background-color:whitesmoke;padding:10px 10px;border:1px solid;border-radius:20px;display:inline-block;margin-left:5px;margin-bottom:2px;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9ob21lL3J1bm5lci9Cb3RzLUZvci1IaXJlL3BhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWdCa0IsQUFHc0IsQUFLYyxBQVFQLEFBSVksQUFLZCxBQVdMLEFBT0MsV0F2Q0EsQUFpQ0EsQ0FPQyxJQWpCRCxFQVZkLEtBWjJCLEFBa0NQLEVBOUJBLEFBb0NVLEdBakJYLEVBUEMsV0FtQnBCLEVBOUJZLEVBbUJXLEdBdkJ2QixBQWdCQSxLQVhvQixBQW1DQSxhQWZGLEtBbkJjLEFBb0NiLFdBaEJDLE1BaUJDLFlBaEJyQixDQXBCQSxNQXNDdUIscUJBQ0wsZ0JBQ0Usa0JBQ3BCIiwiZmlsZSI6Ii9ob21lL3J1bm5lci9Cb3RzLUZvci1IaXJlL3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEhlYWQgZnJvbSBcIm5leHQvaGVhZFwiXG5pbXBvcnQgTGF5b3V0IGZyb20gXCIuLi9jb21wb25lbnRzL0xheW91dC5qc1wiXG5pbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCJcblxuY2xhc3MgSG9tZVBhZ2UgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnR7XG4gIGNvbnN0cnVjdG9yKHByb3BzKXtcbiAgICBzdXBlcihwcm9wcylcbiAgfVxuXG4gIHJlbmRlcigpe1xuICAgIHJldHVybiAoXG4gICAgICA8TGF5b3V0PlxuICAgICAgPGhlYWQ+XG4gICAgICAgIDxzdHlsZT57J2JvZHkgeyBiYWNrZ3JvdW5kLWNvbG9yOiAjNTBjODc4OyB9J308L3N0eWxlPlxuICAgICAgICA8dGl0bGU+Qm90cyBGb3IgSGlyZTwvdGl0bGU+XG4gICAgICA8L2hlYWQ+XG4gICAgICA8c3R5bGUganN4PntgXG4gICAgICAgIC5jb250YWluZXJ7XG4gICAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICAgICAgaGVpZ2h0OiAxMDAlO1xuICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICM1MGM4Nzg7XG4gICAgICAgIH1cbiAgICAgICAgLmhlYWRlcntcbiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjNTBjODc4O1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICB3aWR0aDogOTUlO1xuICAgICAgICAgIHBhZGRpbmc6IDEwcHggMTBweDtcbiAgICAgICAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgYmxhY2s7XG4gICAgICAgIH1cbiAgICAgICAgXG4gICAgICAgIC5jb250ZW50e1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgfVxuXG4gICAgICAgICNib3Rze1xuICAgICAgICAgIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCBibGFjaztcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4IDEwcHg7XG4gICAgICAgIH1cblxuICAgICAgICAuYm90e1xuICAgICAgICAgIHBhZGRpbmc6IDVweCA1cHg7XG5cbiAgICAgICAgICB3aWR0aDogMTUwcHg7XG4gICAgICAgICAgYm9yZGVyOiAycHggc29saWQ7XG4gICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuXG4gICAgICAgICAgbWFyZ2luLWxlZnQ6IDVweDtcbiAgICAgICAgICBtYXJnaW4tYm90dG9tOiAycHg7XG4gICAgICAgIH1cblxuICAgICAgICAuYm90IGltZ3tcbiAgICAgICAgICB3aWR0aDogNTBweDtcbiAgICAgICAgICBoZWlnaHQ6IDUwcHg7XG5cbiAgICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7XG4gICAgICAgIH1cblxuICAgICAgICAucHJpY2V7XG4gICAgICAgICAgd2lkdGg6IDIwMHB4O1xuICAgICAgICAgIGhlaWdodDogMjUwcHg7XG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGVzbW9rZTtcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4IDEwcHg7XG5cbiAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZDtcbiAgICAgICAgICBib3JkZXItcmFkaXVzOiAyMHB4O1xuXG4gICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICAgICAgICAgIG1hcmdpbi1sZWZ0OiA1cHg7XG4gICAgICAgICAgbWFyZ2luLWJvdHRvbTogMnB4O1xuICAgICAgICB9XG4gICAgICBgfTwvc3R5bGU+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVhZGVyXCI+XG4gICAgICAgICAgPGgxPkRpc2NvcmQgQm90cyBmb3IgSGlyZTwvaDE+XG4gICAgICAgICAgPHA+V2FudCBhIGN1c3RvbSBkaXNjb3JkIGJvdCBmb3IgeW91ciBzZXJ2ZXI/IFdlbGwgd2UgY3JlYXRlIGRpc2NvcmQgYm90cyBmb3IgRlJFRSBqdXN0IGNoZWNrIG91dCBvdXIgcGxhbnMuPC9wPlxuXG4gICAgICAgICAgPGEgaHJlZj1cIiNwcmljaW5nXCI+PGJ1dHRvbj5QcmljaW5nPC9idXR0b24+PC9hPlxuICAgICAgICAgIDxhIGhyZWY9XCJodHRwczovL3d3dy5wcm9kdWN0aHVudC5jb20vcG9zdHMvYm90cy1mb3ItaGlyZVwiPjxidXR0b24+UHJvZHVjdCBIdW50PC9idXR0b24+PC9hPlxuICAgICAgICA8L2Rpdj5cblxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbnRlbnRcIj5cbiAgICAgICAgICA8ZGl2IGlkPVwiYm90c1wiPlxuICAgICAgICAgICAgPGgxPk91ciBCb3RzPC9oMT5cbiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYm90XCI+XG4gICAgICAgICAgICAgIDxpbWcgc3JjPVwiaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXZhdGFycy83MzAwOTM3MzIyNzkzNTM0MTQvNWY2NjU2MzhlYjlhMDM4ZTdjZTJkYTIxODAwNmE0YjYucG5nP3NpemU9MjU2XCIvPlxuICAgICAgICAgICAgICA8aDM+Tm9vYml0PC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJib3RcIj5cbiAgICAgICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hdmF0YXJzLzczNTkyMzQ5MjAwNDAzNjY4MS85Yzk3NjVjN2YyMTE4MmQwM2Y0ZjdjOTk3MjgxNzkwMi5wbmc/c2l6ZT0yNTZcIi8+XG4gICAgICAgICAgICAgIDxoMz5MdWllPC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYm90XCI+XG4gICAgICAgICAgICAgIDxpbWcgc3JjPVwiaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXBwLWljb25zLzczODQ4NjM2OTk2MTI0Njc1MS8zMjY4ODZlYmQwYzQ5ZTNmZWQ4MTU3NzBkZTljMTBhZS5wbmc/c2l6ZT0yNTZcIi8+XG4gICAgICAgICAgICAgIDxoMz5BRkEgQUJJTElUSUVTPC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJib3RcIj5cbiAgICAgICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hcHAtaWNvbnMvNzM5ODg2Nzk0NjQ4MDU5OTg1LzEzZDg1MGEwMjdhODMzNjQzZDAzYjRkNDJkMjUwNzI0LnBuZz9zaXplPTI1NlwiLz5cbiAgICAgICAgICAgICAgPGgzPkFpbUJvdCBVdGlsaWVzPC9oMz5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJib3RcIj5cbiAgICAgICAgICAgICAgPGltZyBzcmM9XCJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hcHAtaWNvbnMvNzQzODY2NTkzMjY3ODEwMzg0L2IyZmEwZjNhYjgyOWVmOWY2NzViYTBlZDk5Yjg1YmZlLnBuZz9zaXplPTI1NlwiLz5cbiAgICAgICAgICAgICAgPGgzPkluZGlhIEFybXk8L2gzPlxuICAgICAgICAgICAgPC9kaXY+XG4gICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImJvdFwiPlxuICAgICAgICAgICAgICA8aW1nIHNyYz1cImh0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL2FwcC1pY29ucy83NDQ1ODU2MTcxNjUzODU4MDkvMTEwYWFhMTAyZmRhOTJhOTBjMTQ4NDEzZDBmOTM3NzgucG5nP3NpemU9MjU2XCIvPlxuICAgICAgICAgICAgICA8aDM+QWRpdGh5YSdzIEJvdDwvaDM+XG4gICAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICAgIDxwPkFuZCBtb3JlKzwvcD5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8ZGl2IGlkPVwicGFydG5lcnNcIiBzdHlsZT17eydib3JkZXJCb3R0b20nOiAnMnB4IHNvbGlkJ319PlxuICAgICAgICAgICAgPGgxPlBhcnRuZXJzPC9oMT5cbiAgICAgICAgICAgIDxoMz5Cb3QgRGV2ZWxvcGVycyBIYW5nb3V0PC9oMz5cbiAgICAgICAgICAgIDxwPkEgZ3JlYXQgcGxhY2UgdG8gZmluZCBib3QgZGV2ZWxvcGVycyE8L3A+XG4gICAgICAgICAgICA8YnIvPlxuICAgICAgICAgICAgPGEgaHJlZj1cImh0dHBzOi8vZGlzY29yZC5nZy9kNmsyOUViXCI+PGJ1dHRvbj5Kb2luPC9idXR0b24+PC9hPlxuICAgICAgICAgICAgPGJyLz5cbiAgICAgICAgICA8L2Rpdj5cbiAgICAgICAgICA8ZGl2IGlkPVwicHJpY2luZ1wiPlxuICAgICAgICAgICAgPGgxPlByaWNpbmc8L2gxPlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJwcmljZVwiPlxuICAgICAgICAgICAgICA8aDM+RlJFRTwvaDM+XG4gICAgICAgICAgICAgIDxwPlRoaXMgcGxhbiBpbmNsdWRlcyBhIGJhc2ljIGRpc2NvcmQgYm90IHdpdGggbW9kZXJhdGlvbiwgZnVuLCBpbmZvIGNvbW1hbmRzLiBIb3N0cyBmb3IgMjQvNyB3aXRoIG5vIGRvd250aW1lLiA8L3A+XG4gICAgICAgICAgICAgIDxhIGhyZWY9XCIvZmFxXCI+PGJ1dHRvbj5HZXQgU3RhcnRlZDwvYnV0dG9uPjwvYT5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJwcmljZVwiPlxuICAgICAgICAgICAgICA8aDM+UHJlbWl1bTwvaDM+XG4gICAgICAgICAgICAgIDxwPkV2ZXJ5dGhpbmcgZnJvbSBmcmVlIHBsdXMgbXVzaWMsIGN1c3RvbSBjb21tYW5kcywgY3VzdG9tIG1vZGVyYXRpb24gc3lzdGVtPC9wPlxuICAgICAgICAgICAgICA8YnIvPlxuICAgICAgICAgICAgICA8YnIvPlxuICAgICAgICAgICAgICA8YSBocmVmPVwiL2ZhcVwiPjxidXR0b24+Q29udGFjdCBVczwvYnV0dG9uPjwvYT5cbiAgICAgICAgICAgIDwvZGl2PlxuICAgICAgICAgIDwvZGl2PlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvTGF5b3V0PlxuICAgIClcbiAgfVxufVxuXG5leHBvcnQgZGVmYXVsdCBIb21lUGFnZSJdfQ== */\n/*@ sourceURL=/home/runner/Bots-For-Hire/pages/index.js */"), __jsx("div", {
-      className: "jsx-552138678" + " " + "header",
+    }, __jsx("style", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 72
+        lineNumber: 16
+      },
+      __self: this
+    }, 'body { background-color: #50c878; }'), __jsx("title", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 17
+      },
+      __self: this
+    }, "Bots For Hire")), __jsx("div", {
+      id: "title",
+      className: "text-center",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 19
       },
       __self: this
     }, __jsx("h1", {
-      className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 73
+        lineNumber: 20
       },
       __self: this
-    }, "Discord Bots for Hire"), __jsx("p", {
-      className: "jsx-552138678",
+    }, "Bots For Hire"), __jsx("p", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 74
+        lineNumber: 21
       },
       __self: this
-    }, "Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans."), __jsx("a", {
+    }, "Discord Bots made easier."), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Button"], {
+      variant: "outline-primary",
       href: "#pricing",
-      className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 76
+        lineNumber: 22
       },
       __self: this
-    }, __jsx("button", {
-      className: "jsx-552138678",
+    }, "Pricing")), __jsx("br", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 76
+        lineNumber: 25
       },
       __self: this
-    }, "Pricing")), __jsx("a", {
-      href: "https://www.producthunt.com/posts/bots-for-hire",
-      className: "jsx-552138678",
+    }), __jsx("hr", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 77
+        lineNumber: 26
       },
       __self: this
-    }, __jsx("button", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 77
-      },
-      __self: this
-    }, "Product Hunt"))), __jsx("div", {
-      className: "jsx-552138678" + " " + "content",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 80
-      },
-      __self: this
-    }, __jsx("div", {
+    }), __jsx("div", {
       id: "bots",
-      className: "jsx-552138678",
+      className: "text-center",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 81
+        lineNumber: 27
       },
       __self: this
     }, __jsx("h1", {
-      className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 82
+        lineNumber: 28
       },
       __self: this
-    }, "Our Bots"), __jsx("div", {
-      className: "jsx-552138678" + " " + "bot",
+    }, "Bots"), __jsx("p", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 83
+        lineNumber: 29
       },
       __self: this
-    }, __jsx("img", {
-      src: "https://cdn.discordapp.com/avatars/730093732279353414/5f665638eb9a038e7ce2da218006a4b6.png?size=256",
-      className: "jsx-552138678",
+    }, "Coming Soon")), __jsx("br", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 84
+        lineNumber: 31
       },
       __self: this
-    }), __jsx("h3", {
-      className: "jsx-552138678",
+    }), __jsx("hr", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 85
+        lineNumber: 32
       },
       __self: this
-    }, "Noobit")), __jsx("div", {
-      className: "jsx-552138678" + " " + "bot",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 87
-      },
-      __self: this
-    }, __jsx("img", {
-      src: "https://cdn.discordapp.com/avatars/735923492004036681/9c9765c7f21182d03f4f7c9972817902.png?size=256",
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 88
-      },
-      __self: this
-    }), __jsx("h3", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 89
-      },
-      __self: this
-    }, "Luie")), __jsx("div", {
-      className: "jsx-552138678" + " " + "bot",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 91
-      },
-      __self: this
-    }, __jsx("img", {
-      src: "https://cdn.discordapp.com/app-icons/738486369961246751/326886ebd0c49e3fed815770de9c10ae.png?size=256",
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 92
-      },
-      __self: this
-    }), __jsx("h3", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 93
-      },
-      __self: this
-    }, "AFA ABILITIES")), __jsx("div", {
-      className: "jsx-552138678" + " " + "bot",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 95
-      },
-      __self: this
-    }, __jsx("img", {
-      src: "https://cdn.discordapp.com/app-icons/739886794648059985/13d850a027a833643d03b4d42d250724.png?size=256",
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 96
-      },
-      __self: this
-    }), __jsx("h3", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 97
-      },
-      __self: this
-    }, "AimBot Utilies")), __jsx("div", {
-      className: "jsx-552138678" + " " + "bot",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 99
-      },
-      __self: this
-    }, __jsx("img", {
-      src: "https://cdn.discordapp.com/app-icons/743866593267810384/b2fa0f3ab829ef9f675ba0ed99b85bfe.png?size=256",
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 100
-      },
-      __self: this
-    }), __jsx("h3", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 101
-      },
-      __self: this
-    }, "India Army")), __jsx("div", {
-      className: "jsx-552138678" + " " + "bot",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 103
-      },
-      __self: this
-    }, __jsx("img", {
-      src: "https://cdn.discordapp.com/app-icons/744585617165385809/110aaa102fda92a90c148413d0f93778.png?size=256",
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 104
-      },
-      __self: this
-    }), __jsx("h3", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 105
-      },
-      __self: this
-    }, "Adithya's Bot")), __jsx("p", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 107
-      },
-      __self: this
-    }, "And more+")), __jsx("div", {
-      id: "partners",
-      style: {
-        'borderBottom': '2px solid'
-      },
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 109
-      },
-      __self: this
-    }, __jsx("h1", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 110
-      },
-      __self: this
-    }, "Partners"), __jsx("h3", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 111
-      },
-      __self: this
-    }, "Bot Developers Hangout"), __jsx("p", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 112
-      },
-      __self: this
-    }, "A great place to find bot developers!"), __jsx("br", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 113
-      },
-      __self: this
-    }), __jsx("a", {
-      href: "https://discord.gg/d6k29Eb",
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 114
-      },
-      __self: this
-    }, __jsx("button", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 114
-      },
-      __self: this
-    }, "Join")), __jsx("br", {
-      className: "jsx-552138678",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 115
-      },
-      __self: this
-    })), __jsx("div", {
+    }), __jsx("div", {
       id: "pricing",
-      className: "jsx-552138678",
+      className: "text-center",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 117
+        lineNumber: 34
       },
       __self: this
     }, __jsx("h1", {
-      className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 118
+        lineNumber: 35
       },
       __self: this
-    }, "Pricing"), __jsx("div", {
-      className: "jsx-552138678" + " " + "price",
+    }, "Pricing"), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"], {
+      style: {
+        width: '15rem',
+        height: '18rem',
+        display: 'inline-block'
+      },
+      className: "text-center",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 119
+        lineNumber: 38
       },
       __self: this
-    }, __jsx("h3", {
-      className: "jsx-552138678",
+    }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Body, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 120
+        lineNumber: 39
       },
       __self: this
-    }, "FREE"), __jsx("p", {
-      className: "jsx-552138678",
+    }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Title, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 121
+        lineNumber: 40
       },
       __self: this
-    }, "This plan includes a basic discord bot with moderation, fun, info commands. Hosts for 24/7 with no downtime. "), __jsx("a", {
+    }, __jsx("h2", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 40
+      },
+      __self: this
+    }, "Free")), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Text, {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 41
+      },
+      __self: this
+    }, __jsx("ul", {
+      className: "fa-ul",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 42
+      },
+      __self: this
+    }, __jsx("li", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 43
+      },
+      __self: this
+    }, "Moderation Commands"), __jsx("li", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 44
+      },
+      __self: this
+    }, "Custom Presence"), __jsx("li", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 45
+      },
+      __self: this
+    }, "Basic Fun Command"), __jsx("li", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 46
+      },
+      __self: this
+    }, "Custom name and profile pic"))), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Button"], {
+      variant: "primary",
       href: "/faq",
-      className: "jsx-552138678",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 122
+        lineNumber: 49
       },
       __self: this
-    }, __jsx("button", {
-      className: "jsx-552138678",
+    }, "Get Started"))), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"], {
+      style: {
+        width: '15rem',
+        height: '18rem',
+        display: 'inline-block',
+        marginLeft: '2px'
+      },
+      className: "text-center",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 122
+        lineNumber: 54
       },
       __self: this
-    }, "Get Started"))), __jsx("div", {
-      className: "jsx-552138678" + " " + "price",
+    }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Body, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 124
+        lineNumber: 55
       },
       __self: this
-    }, __jsx("h3", {
-      className: "jsx-552138678",
+    }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Title, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 125
+        lineNumber: 56
       },
       __self: this
-    }, "Premium"), __jsx("p", {
-      className: "jsx-552138678",
+    }, __jsx("h2", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 126
+        lineNumber: 56
       },
       __self: this
-    }, "Everything from free plus music, custom commands, custom moderation system"), __jsx("br", {
-      className: "jsx-552138678",
+    }, "Premium")), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Text, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 127
+        lineNumber: 57
       },
       __self: this
-    }), __jsx("br", {
-      className: "jsx-552138678",
+    }, __jsx("ul", {
+      className: "fa-ul",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 128
+        lineNumber: 58
       },
       __self: this
-    }), __jsx("a", {
-      href: "/faq",
-      className: "jsx-552138678",
+    }, __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 129
+        lineNumber: 59
       },
       __self: this
-    }, __jsx("button", {
-      className: "jsx-552138678",
+    }, "Everything from Free"), __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 129
+        lineNumber: 60
       },
       __self: this
-    }, "Contact Us"))))));
+    }, "Music"), __jsx("li", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 61
+      },
+      __self: this
+    }, "Custom Moderation System"), __jsx("li", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 62
+      },
+      __self: this
+    }, "Custom Role In Server"))), __jsx("br", {
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 65
+      },
+      __self: this
+    }), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Button"], {
+      variant: "primary",
+      href: "https://discord.gg/EzecfUX",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 66
+      },
+      __self: this
+    }, "Contact Us")))));
   }
 
 }
@@ -2484,6 +2352,17 @@ module.exports = require("react");
 
 /***/ }),
 
+/***/ "react-bootstrap":
+/*!**********************************!*\
+  !*** external "react-bootstrap" ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("react-bootstrap");
+
+/***/ }),
+
 /***/ "react-is":
 /*!***************************!*\
   !*** external "react-is" ***!
@@ -2492,17 +2371,6 @@ module.exports = require("react");
 /***/ (function(module, exports) {
 
 module.exports = require("react-is");
-
-/***/ }),
-
-/***/ "styled-jsx/style":
-/*!***********************************!*\
-  !*** external "styled-jsx/style" ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("styled-jsx/style");
 
 /***/ }),
 

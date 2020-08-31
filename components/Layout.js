@@ -1,48 +1,31 @@
 import Link from "next/link"
+import { Navbar, Nav, Button } from "react-bootstrap"
 
-function Layout(props){
+function Layout(props) {
   return (
     <div>
-    <style jsx>{`
-      #navbar{
-        width: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        background-color: red;
-        color: white;
-      }
-
-      #navbar img{
-        width: 20px;
-        height: 20px;
-        border-radius: 50%;
-        vertical-align: 0.5%;
-        margin-right: 5px;
-      }
-      #navbar *{
-        display: inline-block;
-      }
-
-      #navbar #links{
-        margin-left: 29px;
-      }
-
-      #navbar #links a{
-        margin-left: 15px;
-      }
-    `}</style>
       <div id="navbar">
-        <img src="/logos/logo.png"/>
-        <h2>Bots For Hire</h2>
-        <div id="links">
-          <Link href="/"><a>Home</a></Link>
-          <Link href="/faq"><a>FAQ</a></Link>
-        </div>
+        <Navbar bg="light" expand="lg" sticky="top">
+          <Navbar.Brand href="/">Bots For Hire</Navbar.Brand>
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+          <Navbar.Collapse id="basic-navbar-nav">
+            <Nav className="mr-auto">
+              <Nav.Link href="/">Home</Nav.Link>
+              <Nav.Link href="/faq">FAQ</Nav.Link>
+            </Nav>
+
+            <Button>Contact Us</Button>
+          </Navbar.Collapse>
+        </Navbar>
       </div>
-      <br/><br/><br/>
+      <br /><br /><br />
       <div style={props.style}>{props.children}</div>
-      <p>We're not affiliated with Discord</p>
+
+      <footer className="page-footer font-small blue">
+
+        <div className="footer-copyright text-center py-3">We're not affiliated with Discord</div>
+
+      </footer>
     </div>
   )
 }

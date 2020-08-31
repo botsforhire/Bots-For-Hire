@@ -4,4 +4,3 @@ This is the rewrite branch for the website. The branch uses bootstrap instead of
 
 it's the version being ran on zeit.
 
-test

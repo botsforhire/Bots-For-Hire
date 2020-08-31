@@ -1,3 +1,5 @@
 User-Agent: *
 Allow: /
 Disallow: /robots.txt
+
+Sitemap: htts://bots.wtf/sitemap.xml

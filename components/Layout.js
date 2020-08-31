@@ -12,9 +12,10 @@ function Layout(props) {
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/faq">FAQ</Nav.Link>
+              <Nav.Link href="/team">Our Team</Nav.Link>
             </Nav>
 
-            <Button>Contact Us</Button>
+            <Button href="https://discord.gg/EzecfUX">Contact Us</Button>
           </Navbar.Collapse>
         </Navbar>
       </div>

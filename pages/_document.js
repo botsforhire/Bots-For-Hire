@@ -11,9 +11,11 @@ class DocumentP extends Document {
         <Head>
           <link rel="icon" href="/logos/favicon.png" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+          <meta name="title" content="Bots For Hire"/>
           <meta name="theme-color" content="#50c878" />
           <meta name="og:title" content="Bots For Hire" />
-          <meta name="og:description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans." />
+          <meta name="og:description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans." /><meta name="description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans."/>
           <meta name="og:image" content="/logos/favicon.png" />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:title" content="Bots For Hire" />

@@ -179,49 +179,57 @@ function Layout(props) {
       lineNumber: 14
     },
     __self: this
-  }, "FAQ")), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Button"], {
+  }, "FAQ"), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Nav"].Link, {
+    href: "/team",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 15
+    },
+    __self: this
+  }, "Our Team")), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__["Button"], {
+    href: "https://discord.gg/EzecfUX",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
     },
     __self: this
   }, "Contact Us")))), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 22
     },
     __self: this
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 22
     },
     __self: this
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 22
     },
     __self: this
   }), __jsx("div", {
     style: props.style,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 23
     },
     __self: this
   }, props.children), __jsx("footer", {
     className: "page-footer font-small blue",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 25
     },
     __self: this
   }, __jsx("div", {
     className: "footer-copyright text-center py-3",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 27
     },
     __self: this
   }, "We're not affiliated with Discord")));
@@ -2052,13 +2060,13 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
     }, "Coming Soon")), __jsx("br", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 31
+        lineNumber: 66
       },
       __self: this
     }), __jsx("hr", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 32
+        lineNumber: 67
       },
       __self: this
     }), __jsx("div", {
@@ -2066,13 +2074,13 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
       className: "text-center",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 34
+        lineNumber: 69
       },
       __self: this
     }, __jsx("h1", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 35
+        lineNumber: 70
       },
       __self: this
     }, "Pricing"), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"], {
@@ -2084,62 +2092,62 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
       className: "text-center",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 38
+        lineNumber: 73
       },
       __self: this
     }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Body, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 39
+        lineNumber: 74
       },
       __self: this
     }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Title, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 40
+        lineNumber: 75
       },
       __self: this
     }, __jsx("h2", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 40
+        lineNumber: 75
       },
       __self: this
     }, "Free")), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Text, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 41
+        lineNumber: 76
       },
       __self: this
     }, __jsx("ul", {
       className: "fa-ul",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 42
+        lineNumber: 77
       },
       __self: this
     }, __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 43
+        lineNumber: 78
       },
       __self: this
     }, "Moderation Commands"), __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 44
+        lineNumber: 79
       },
       __self: this
     }, "Custom Presence"), __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 45
+        lineNumber: 80
       },
       __self: this
     }, "Basic Fun Command"), __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 46
+        lineNumber: 81
       },
       __self: this
     }, "Custom name and profile pic"))), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Button"], {
@@ -2147,7 +2155,7 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
       href: "/faq",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 49
+        lineNumber: 84
       },
       __self: this
     }, "Get Started"))), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"], {
@@ -2160,68 +2168,68 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
       className: "text-center",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 54
+        lineNumber: 89
       },
       __self: this
     }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Body, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 55
+        lineNumber: 90
       },
       __self: this
     }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Title, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 56
+        lineNumber: 91
       },
       __self: this
     }, __jsx("h2", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 56
+        lineNumber: 91
       },
       __self: this
     }, "Premium")), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Card"].Text, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 57
+        lineNumber: 92
       },
       __self: this
     }, __jsx("ul", {
       className: "fa-ul",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 58
+        lineNumber: 93
       },
       __self: this
     }, __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 59
+        lineNumber: 94
       },
       __self: this
     }, "Everything from Free"), __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 60
+        lineNumber: 95
       },
       __self: this
     }, "Music"), __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 61
+        lineNumber: 96
       },
       __self: this
     }, "Custom Moderation System"), __jsx("li", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 62
+        lineNumber: 97
       },
       __self: this
     }, "Custom Role In Server"))), __jsx("br", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 65
+        lineNumber: 100
       },
       __self: this
     }), __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_4__["Button"], {
@@ -2229,7 +2237,7 @@ class HomePage extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
       href: "https://discord.gg/EzecfUX",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 66
+        lineNumber: 101
       },
       __self: this
     }, "Contact Us")))));

@@ -13,6 +13,7 @@ class DocumentP extends Document {
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
           <meta name="title" content="Bots For Hire"/>
+          <meta name="tags" content="bots, discord-bots, bots-for-hire, free-bots, bot, discord, discordapp, wumpus, bth"/>
           <meta name="theme-color" content="#50c878" />
           <meta name="og:title" content="Bots For Hire" />
           <meta name="og:description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans." /><meta name="description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans."/>

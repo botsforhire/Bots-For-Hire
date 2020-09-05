@@ -15,7 +15,7 @@ function Layout(props) {
               <Nav.Link href="/team">Our Team</Nav.Link>
             </Nav>
 
-            <Button href="https://discord.gg/EzecfUX">Contact Us</Button>
+            <Button href="https://discord.gg/Pgr4FJn">Contact Us</Button>
           </Navbar.Collapse>
         </Navbar>
       </div>

@@ -61,7 +61,7 @@ class FAQ extends React.Component {
               </Accordion.Toggle>
             </Card.Header>
             <Accordion.Collapse eventKey="0">
-              <Card.Body>You can either contact us or join our discord below: discord.gg/EzecfUX</Card.Body>
+              <Card.Body>You can either contact us or join our discord below: discord.gg/Pgr4FJn</Card.Body>
             </Accordion.Collapse>
           </Card>
         </Accordion>

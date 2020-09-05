@@ -98,7 +98,7 @@ class HomePage extends React.Component {
                 </ul>
               </Card.Text>
               <br />
-              <Button variant="primary" href="https://discord.gg/EzecfUX" >Contact Us</Button>
+              <Button variant="primary" href="https://discord.gg/Pgr4FJn" >Contact Us</Button>
             </Card.Body>
           </Card>
         </div>

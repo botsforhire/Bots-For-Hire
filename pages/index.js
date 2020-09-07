@@ -26,7 +26,7 @@ class HomePage extends React.Component {
         <hr />
         <div id="bots" className="text-center">
           <h1>Bots</h1>
-          <p>Coming Soon</p>
+          <Button variant="primary" href="/bots">View Our Bots</Button>
           {
           // <div id="bots" className="text-center">
           //   <Card style={{ width: '18rem', display: 'inline-block'}}>

@@ -1122,11 +1122,19 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       },
       __self: this
     }), __jsx("meta", {
+      name: "tags",
+      content: "bots, discord-bots, bots-for-hire, free-bots, bot, discord, discordapp, wumpus, bth",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 16
+      },
+      __self: this
+    }), __jsx("meta", {
       name: "theme-color",
       content: "#50c878",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 16
+        lineNumber: 17
       },
       __self: this
     }), __jsx("meta", {
@@ -1134,7 +1142,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       content: "Bots For Hire",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 17
+        lineNumber: 18
       },
       __self: this
     }), __jsx("meta", {
@@ -1142,7 +1150,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       content: "Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans.",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 18
+        lineNumber: 19
       },
       __self: this
     }), __jsx("meta", {
@@ -1150,7 +1158,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       content: "Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans.",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 18
+        lineNumber: 19
       },
       __self: this
     }), __jsx("meta", {
@@ -1158,7 +1166,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       content: "/logos/favicon.png",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 19
+        lineNumber: 20
       },
       __self: this
     }), __jsx("meta", {
@@ -1166,7 +1174,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       content: "summary",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 20
+        lineNumber: 21
       },
       __self: this
     }), __jsx("meta", {
@@ -1174,7 +1182,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       content: "Bots For Hire",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 21
+        lineNumber: 22
       },
       __self: this
     }), __jsx("meta", {
@@ -1182,7 +1190,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       content: "Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans.",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 22
+        lineNumber: 23
       },
       __self: this
     }), __jsx("meta", {
@@ -1190,7 +1198,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       content: "/logos/favicon.png",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 23
+        lineNumber: 24
       },
       __self: this
     }), __jsx("meta", {
@@ -1198,7 +1206,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       content: "@plop_daniel",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 24
+        lineNumber: 25
       },
       __self: this
     }), __jsx("script", {
@@ -1206,7 +1214,7 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       src: "https://www.googletagmanager.com/gtag/js?id=UA-176091657-2",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 27
+        lineNumber: 28
       },
       __self: this
     }), __jsx("script", {
@@ -1220,25 +1228,25 @@ class DocumentP extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       },
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 32
+        lineNumber: 33
       },
       __self: this
     })), __jsx("body", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 43
+        lineNumber: 44
       },
       __self: this
     }, __jsx(next_document__WEBPACK_IMPORTED_MODULE_1__["Main"], {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 44
+        lineNumber: 45
       },
       __self: this
     }), __jsx(next_document__WEBPACK_IMPORTED_MODULE_1__["NextScript"], {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 45
+        lineNumber: 46
       },
       __self: this
     })));

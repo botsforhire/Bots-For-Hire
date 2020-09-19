@@ -4,6 +4,10 @@
     "static/development/dll/dll_88bfe47d29bf84228398.js.map"
   ],
   "pages": {
+    "/": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
     "/_app": [
       "static/runtime/webpack.js",
       "static/runtime/main.js",
@@ -18,6 +22,18 @@
       "static/runtime/polyfills.js.map"
     ],
     "/bots": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/faq": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/index": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/next/dist/pages/_error": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],

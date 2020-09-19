@@ -37,15 +37,7 @@ class HomePage extends React.Component {
           }
         `}</style>
         <div id="bots">
-          <div className="bot">
-            <img src="https://cdn.discordapp.com/avatars/714544278478520331/a_75dbffc61787fb8dee616f4b8b75b6c8.webp"/>
-            <h2>Noobit</h2>
-          </div>
-
-          <div className="bot">
-            <img src="https://cdn.discordapp.com/avatars/714544278478520331/a_75dbffc61787fb8dee616f4b8b75b6c8.webp"/>
-            <h2>Test</h2>
-          </div>
+          <pre>Page Coming Soon</pre>
         </div>
       </Layout>
     )

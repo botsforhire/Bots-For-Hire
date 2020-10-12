@@ -11,8 +11,8 @@ function Layout(props) {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="/faq">FAQ</Nav.Link>
               <Nav.Link href="https://status.bots.wtf">Status</Nav.Link>
+							<Nav.Link href="/plans">Plans</Nav.Link>
               <Nav.Link href="/team">Our Team</Nav.Link>
             </Nav>
 
@@ -25,7 +25,11 @@ function Layout(props) {
 
       <footer className="page-footer font-small blue">
 
-        <div className="footer-copyright text-center py-3">We're not affiliated with Discord. Have a complaint? Email us at complaint@bots.wtf</div>
+        { /* 
+				
+				<div className="footer-copyright text-center py-3">We're not affiliated with Discord. Have a complaint? Email us at complaint@bots.wtf</div>
+				
+				*/}
 
       </footer>
     </div>

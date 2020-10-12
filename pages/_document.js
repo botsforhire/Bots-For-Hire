@@ -16,11 +16,11 @@ class DocumentP extends Document {
           <meta name="tags" content="bots, discord-bots, bots-for-hire, free-bots, bot, discord, discordapp, wumpus, bth"/>
           <meta name="theme-color" content="#50c878" />
           <meta name="og:title" content="Bots For Hire" />
-          <meta name="og:description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans." /><meta name="description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans."/>
+          <meta name="og:description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans." /><meta name="description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans. Protected by Cloudfare."/>
           <meta name="og:image" content="/logos/favicon.png" />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:title" content="Bots For Hire" />
-          <meta name="twitter:description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans." />
+          <meta name="twitter:description" content="Want a custom discord bot for your server? Well we create discord bots for FREE just check out our plans. Protected by Cloudfare." />
           <meta name="twitter:image" content="/logos/favicon.png" />
           <meta name="twitter:site" content="@plop_daniel" />
 

@@ -1,5 +1,4 @@
 User-Agent: *
 Allow: /
-Disallow: /robots.txt
 
 Sitemap: https://bots.wtf/sitemap.xml

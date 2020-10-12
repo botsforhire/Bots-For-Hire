@@ -4,7 +4,7 @@ import Link from "next/link"
 
 import { Button, Card } from "react-bootstrap"
 
-class HomePage extends React.Component {
+class Contact extends React.Component {
   constructor(props) {
     super(props)
   }
@@ -17,15 +17,11 @@ class HomePage extends React.Component {
           <title>Bots For Hire</title>
         </head>
         
-				<h1>Bots For Hire</h1>
-				<p>Free Discord Bots made for everyone. </p>
-				<Link href="/plans"><Button variant="outline-primary">See Plans</Button></Link> { ' ' }
-				<Link href="/contact"><Button variant="outline-info">Contact Us</Button></Link>
-				<br/><br/><br/>
-				
+				<a href="mailto:staff@bots.wtf">Email Us</a>{ ' ' }
+				<a href="https://discord.gg/Pgr4FJn">Our Discord</a>
       </Layout>
     )
   }
 }
 
-export default HomePage
+export default Contact

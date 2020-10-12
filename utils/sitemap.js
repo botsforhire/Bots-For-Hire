@@ -18,7 +18,12 @@ async function generateSiteMap() {
                 .replace('pages', '')
                 .replace('.js', '')
                 .replace('.md', '')
-              const route = path === '/index' ? '' : path
+              var route = path === '/index' ? '' : path
+
+							if(route.startsWith('/')){
+								route = route.replace('/', '')
+							}
+							
               return `
                       <url>
                           <loc>${`https://bots.wtf/${route}`}</loc>

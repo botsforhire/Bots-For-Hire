@@ -40,6 +40,8 @@ class DocumentP extends Document {
         `,
             }}
           />
+
+					<script async src="https://arc.io/widget.js#8BsJZj7h"></script>
         </Head>
         <body>
           <Main />

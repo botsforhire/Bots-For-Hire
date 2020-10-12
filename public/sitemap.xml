@@ -18,6 +18,10 @@
                       </url>
                   
                       <url>
+                          <loc>https://bots.wtf/public/arc-sw</loc>
+                      </url>
+                  
+                      <url>
                           <loc>https://bots.wtf/public/robots.txt</loc>
                       </url>
                   

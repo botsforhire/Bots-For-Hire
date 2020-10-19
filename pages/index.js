@@ -23,6 +23,7 @@ class HomePage extends React.Component {
 				<Link href="/contact"><Button variant="outline-info">Contact Us</Button></Link>
 				<br/><br/><br/>
 				
+        <h3>15+ discord bots made.</h3>
       </Layout>
     )
   }

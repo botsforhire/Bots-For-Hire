@@ -28,7 +28,7 @@ class Plans extends React.Component {
 							<ListGroup.Item>Custom Status</ListGroup.Item>
 							<ListGroup.Item>Free VPS</ListGroup.Item>
   					</ListGroup>
-						<Card.Link href="#">Get Started</Card.Link>
+						<Card.Link href="https://discord.gg/Pgr4FJn">Get Started</Card.Link>
 					</Card.Body>
 				</Card> { ' ' }
 
@@ -41,7 +41,7 @@ class Plans extends React.Component {
 							<ListGroup.Item>Auto Responses</ListGroup.Item>
 							<ListGroup.Item>Custom Commands</ListGroup.Item>
   					</ListGroup>
-						<Card.Link href="#">Contact Us</Card.Link>
+						<Card.Link href="https://discord.gg/Pgr4FJn">Contact Us</Card.Link>
 					</Card.Body>
 				</Card>
       </Layout>

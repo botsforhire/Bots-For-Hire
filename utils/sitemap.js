@@ -24,6 +24,10 @@ async function generateSiteMap() {
 								route = route.replace('/', '')
 							}
 							
+							if(route.startsWith(`/public`)){
+								route = route.replace(`/public`, '')
+							}
+							
               return `
                       <url>
                           <loc>${`https://bots.wtf/${route}`}</loc>

@@ -12,8 +12,8 @@ function Layout(props) {
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="https://status.bots.wtf">Status</Nav.Link>
-							<Nav.Link href="/plans">Plans</Nav.Link>
-              <Nav.Link href="/team">Our Team</Nav.Link>
+              <Nav.Link href="/about">About Us</Nav.Link>
+              { /* Nav.Link href="/about/team">Our Team</Nav.Link> */}
             </Nav>
 
             <Button href="https://discord.gg/Pgr4FJn">Contact Us</Button>

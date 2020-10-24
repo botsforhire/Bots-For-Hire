@@ -13,17 +13,15 @@ class HomePage extends React.Component {
     return (
       <Layout style={{ textAlign: 'center' }}>
         <head>
-          <style>{'body { background-color: #50c878; }'}</style>
+          <style>{'body { background-color: black; color: white;}'}</style>
           <title>Bots For Hire</title>
         </head>
         
 				<h1>Bots For Hire</h1>
-				<p>Free Discord Bots made for everyone. </p>
-				<Link href="/plans"><Button variant="outline-primary">See Plans</Button></Link> { ' ' }
-				<Link href="/contact"><Button variant="outline-info">Contact Us</Button></Link>
-				<br/><br/><br/>
-				
-        <h3>15+ discord bots made.</h3>
+        <p>We offer free discord bots.</p>
+        <br/>
+        <Button variant="outline-primary" href="mailto:contact@bots.wtf">Contact Us</Button>{ ' ' }
+        <Button variant="outline-primary" href="https://discord.gg/Pgr4FJn">Discord Server</Button>
       </Layout>
     )
   }

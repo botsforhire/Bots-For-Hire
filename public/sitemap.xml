@@ -2,14 +2,6 @@
       <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
           
                       <url>
-                          <loc>https://bots.wtf/bots</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://bots.wtf/contact</loc>
-                      </url>
-                  
-                      <url>
                           <loc>https://bots.wtf/</loc>
                       </url>
                   
@@ -18,7 +10,11 @@
                       </url>
                   
                       <url>
-                          <loc>https://bots.wtf/team</loc>
+                          <loc>https://bots.wtf/about/index</loc>
+                      </url>
+                  
+                      <url>
+                          <loc>https://bots.wtf/about/team</loc>
                       </url>
                   
                       <url>

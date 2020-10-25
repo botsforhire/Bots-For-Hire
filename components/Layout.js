@@ -6,14 +6,22 @@ function Layout(props) {
     <div>
       <div id="navbar">
         <Navbar bg="light" expand="lg" sticky="top">
-          <Navbar.Brand href="/">Bots For Hire</Navbar.Brand>
+          <Navbar.Brand href="/">
+            <img
+            alt="Bots For Hire Logo"
+            src="/logos/logo.png"
+            width="30"
+            height="30"
+            className="d-inline-block align-top"
+          />{' '}
+          Bots For Hire</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="https://status.bots.wtf">Status</Nav.Link>
               <Nav.Link href="/about">About Us</Nav.Link>
-              { /* Nav.Link href="/about/team">Our Team</Nav.Link> */}
+              <Nav.Link href="/staff">Our Team</Nav.Link>
             </Nav>
 
             <Button href="https://discord.gg/Pgr4FJn">Contact Us</Button>

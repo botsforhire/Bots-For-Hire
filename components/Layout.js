@@ -33,11 +33,10 @@ function Layout(props) {
 
       <footer className="page-footer font-small blue">
 
-        { /* 
 				
-				<div className="footer-copyright text-center py-3">We're not affiliated with Discord. Have a complaint? Email us at complaint@bots.wtf</div>
+				<div className="footer-copyright text-center py-3">The bots are subject to the <Link href="/terms"><a>terms of service</a></Link></div>
 				
-				*/}
+				
 
       </footer>
     </div>

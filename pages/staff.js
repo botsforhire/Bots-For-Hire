@@ -30,6 +30,17 @@ class Staff extends React.Component {
           />
           Hackermon
           </ListGroup.Item>
+          <ListGroup.Item>
+          <Image
+            src="https://davatar.bots.wtf/409035116367577088"
+            alt="Lemonexus Image"
+            width="50"
+            height="50"
+            rounded
+            style={{ marginRight: '7px'}}
+          />
+          Lemonexus
+          </ListGroup.Item>
         </ListGroup><br/>
         <a href="mailto:staff@bots.wtf"><p className="text-muted">We're looking for developers</p></a>
 
@@ -57,8 +68,74 @@ class Staff extends React.Component {
             style={{ marginRight: '7px'}}
           />
           Adithya Kalany</ListGroup.Item>
+          <ListGroup.Item>
+          <Image
+            src="https://davatar.bots.wtf/409035116367577088"
+            alt="Lemonexus Image"
+            width="50"
+            height="50"
+            rounded
+            style={{ marginRight: '7px'}}
+          />
+          Lemonexus
+          </ListGroup.Item>
+          <ListGroup.Item>
+          <Image
+            src="https://davatar.bots.wtf/478660635148681218"
+            alt="oofquest Image"
+            width="50"
+            height="50"
+            rounded
+            style={{ marginRight: '7px'}}
+          />
+          oofquest
+          </ListGroup.Item>
+           <ListGroup.Item>
+          <Image
+            src="https://davatar.bots.wtf/720718574397947995"
+            alt="𝕯𝖊𝖆𝖉 Image"
+            width="50"
+            height="50"
+            rounded
+            style={{ marginRight: '7px'}}
+          />
+          𝕯𝖊𝖆𝖉
+          </ListGroup.Item>
+          <ListGroup.Item>
+          <Image
+            src="https://davatar.bots.wtf/611505491956465685"
+            alt="SteveTheMonkey Image"
+            width="50"
+            height="50"
+            rounded
+            style={{ marginRight: '7px'}}
+          />
+          SteveTheMonkey
+          </ListGroup.Item>
+          <ListGroup.Item>
+          <Image
+            src="https://davatar.bots.wtf/622859111737982986"
+            alt="LimeSus Image"
+            width="50"
+            height="50"
+            rounded
+            style={{ marginRight: '7px'}}
+          />
+          Lime Sus
+          </ListGroup.Item>
+          <ListGroup.Item>
+          <Image
+            src="https://davatar.bots.wtf/716306888492318790"
+            alt="CuteDog5695 Image"
+            width="50"
+            height="50"
+            rounded
+            style={{ marginRight: '7px'}}
+          />
+          CuteDog5695
+          </ListGroup.Item>
         </ListGroup><br/>
-        <a href="mailto:staff@bots.wtf"><p className="text-muted">We're looking for more staff</p></a>
+        { /* <a href="mailto:staff@bots.wtf"><p className="text-muted">We're looking for more staff</p></a> */ }
       </Layout>
     )
   }

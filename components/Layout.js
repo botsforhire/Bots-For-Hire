@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { Navbar, Nav, Button } from "react-bootstrap"
+import { FaPatreon } from 'react-icons/fa'
 
 function Layout(props) {
   return (
@@ -19,10 +20,11 @@ function Layout(props) {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="https://status.bots.wtf">Status</Nav.Link>
               <Nav.Link href="/about">About Us</Nav.Link>
               <Nav.Link href="/staff">Our Team</Nav.Link>
-            </Nav>
+
+              <Nav.Link href="https://patreon.com/botsforhire" title="Our Patreon"><FaPatreon/></Nav.Link>
+              </Nav>
 
             <Button href="https://discord.gg/Pgr4FJn">Contact Us</Button>
           </Navbar.Collapse>

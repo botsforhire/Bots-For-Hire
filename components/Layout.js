@@ -21,6 +21,7 @@ function Layout(props) {
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/about">About Us</Nav.Link>
+              { /* <Nav.Link href="/partners">Partners</Nav.Link> */}
               <Nav.Link href="/staff">Our Team</Nav.Link>
 
               <Nav.Link href="https://patreon.com/botsforhire" title="Our Patreon"><FaPatreon/></Nav.Link>
@@ -36,7 +37,7 @@ function Layout(props) {
       <footer className="page-footer font-small blue">
 
 				
-				<div className="footer-copyright text-center py-3">The bots are subject to the <Link href="/terms"><a>terms of service</a></Link></div>
+				<div className="footer-copyright text-center py-3">All bots are subject to the <Link href="/terms"><a>terms of service</a></Link>.</div>
 				
 				
 

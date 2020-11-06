@@ -18,7 +18,7 @@ class AboutPage extends React.Component {
         </head>
         
         <h1>Bots For Hire</h1>
-				<p style={{ width: '520px', display: 'inline-block'}}>Bots For Hire is a start-up meant to provide people on discord that do not have bots with free bots. No need to buy a discord bot for $3 when you can get one for free. Feel free to check out our awesome staff at our discord server. They work 24/7 to make sure that everyone who needs a bot will get one.</p>
+				<p style={{ width: '520px', display: 'inline-block'}}>Bots For Hire is a organization that gives out free custom bots. No need to buy a discord bot with modmail for $3 when you can get one for free at Bots For Hire. Feel free to check out our awesome staff at our discord server. They work 24/7 to make sure that everyone who needs a bot will get one.</p>
       </Layout>
     )
   }

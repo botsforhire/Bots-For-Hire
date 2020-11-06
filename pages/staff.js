@@ -17,6 +17,58 @@ class Staff extends React.Component {
           <title>Bots For Hire - Staff</title>
         </head>
         
+        <Image
+          src="https://davatar.bots.wtf/714544278478520331"
+          alt="Hackermon Image"
+          width="171"
+          height="180"
+          roundedCircle
+          style={{ marginRight: '7px'}}
+          title="Hackermon (Owner and Developer)"
+        />
+
+        <Image
+          src="https://davatar.bots.wtf/409035116367577088"
+          alt="Lemonexus Image"
+          width="171"
+          height="180"
+          roundedCircle
+          style={{ marginRight: '7px'}}
+          title="Lemonexus ( Developer)"
+        />
+
+
+        <Image
+          src="https://davatar.bots.wtf/622859111737982986"
+          alt="Lime Sus Image"
+          width="171"
+          height="180"
+          roundedCircle
+          style={{ marginRight: '7px'}}
+          title="Lime Sus ( Head Of Staff and Bot Staff )"
+        />
+
+        <Image
+          src="https://davatar.bots.wtf/691494864126214235"
+          alt="Adithya Image"
+          width="171"
+          height="180"
+          roundedCircle
+          style={{ marginRight: '7px'}}
+          title="Adithya ( Bot Staff )"
+        />
+
+        <Image
+          src="https://davatar.bots.wtf/716306888492318790"
+          alt="CuteDog5695 Image"
+          width="171"
+          height="180"
+          roundedCircle
+          style={{ marginRight: '7px'}}
+          title="CuteDog5695 ( Bot Staff )"
+        />
+
+        {/*
         <h2>Developers</h2><br/>
 				<ListGroup style={{ width: '220px', margin: 'auto'}}>
           <ListGroup.Item>
@@ -33,7 +85,7 @@ class Staff extends React.Component {
           <ListGroup.Item>
           <Image
             src="https://davatar.bots.wtf/409035116367577088"
-            alt="Lemonexus Image"
+            alt=" Image"
             width="50"
             height="50"
             rounded
@@ -135,7 +187,7 @@ class Staff extends React.Component {
           CuteDog5695
           </ListGroup.Item>
         </ListGroup><br/>
-        { /* <a href="mailto:staff@bots.wtf"><p className="text-muted">We're looking for more staff</p></a> */ }
+        */}
       </Layout>
     )
   }

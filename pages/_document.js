@@ -10,7 +10,6 @@ class DocumentP extends Document {
       <Html>
         <Head>
           <link rel="icon" href="/logos/logo.png" />
-          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
           <meta name="title" content="Bots For Hire"/>
           <meta name="tags" content="bots, discord-bots, bots-for-hire, free-bots, bot, discord, discordapp, wumpus, bth"/>

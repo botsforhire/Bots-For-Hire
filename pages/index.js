@@ -27,7 +27,8 @@ class HomePage extends React.Component {
         />
 
         <h1>Bots For Hire</h1>
-        <p>100+ free discord bots created</p><br/>
+        <p>300+ free discord bots created</p><br/>
+
         <Button variant="primary" onClick={()=>{ location.href = `https://discord.gg/Pgr4FJn` }}>Discord Server</Button> { ' ' }
         <Button onClick={()=>{ location.href = `mailto:staff@bots.wtf`}} variant="primary">Contact Us</Button>
       </Layout>

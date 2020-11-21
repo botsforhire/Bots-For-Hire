@@ -21,7 +21,6 @@ function Layout(props) {
             <Nav className="mr-auto">
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/about">About Us</Nav.Link>
-              <Nav.Link href="/partners">Partners</Nav.Link> 
               <Nav.Link href="/staff">Our Team</Nav.Link>
 
               <Nav.Link href="https://patreon.com/botsforhire" title="Our Patreon"><FaPatreon/></Nav.Link>

@@ -27,7 +27,7 @@ class Staff extends React.Component {
           title="Hackermon (Owner and Developer)"
         />
 
-        <Image
+        {/*<Image
           src="https://davatar.bots.wtf/409035116367577088"
           alt="Lemonexus Image"
           width="171"
@@ -35,10 +35,10 @@ class Staff extends React.Component {
           roundedCircle
           style={{ marginRight: '7px'}}
           title="Lemonexus ( Developer)"
-        />
+        /> */}
 
 
-        <Image
+        {/* <Image
           src="https://davatar.bots.wtf/622859111737982986"
           alt="Lime Sus Image"
           width="171"
@@ -46,7 +46,7 @@ class Staff extends React.Component {
           roundedCircle
           style={{ marginRight: '7px'}}
           title="Lime Sus ( Head Of Staff and Bot Staff )"
-        />
+        /> */}
 
         <Image
           src="https://davatar.bots.wtf/691494864126214235"
@@ -59,6 +59,16 @@ class Staff extends React.Component {
         />
 
         <Image
+          src="https://davatar.bots.wtf/709022047673516043"
+          alt="C970 Image"
+          width="171"
+          height="180"
+          roundedCircle
+          style={{ marginRight: '7px'}}
+          title="C970 (Developer)"
+        />
+
+        <Image
           src="https://davatar.bots.wtf/716306888492318790"
           alt="CuteDog5695 Image"
           width="171"
@@ -66,6 +76,26 @@ class Staff extends React.Component {
           roundedCircle
           style={{ marginRight: '7px'}}
           title="CuteDog5695 ( Bot Staff )"
+        />
+
+        <Image
+          src="https://davatar.bots.wtf/378025254125305867"
+          alt="Menin Image"
+          width="171"
+          height="180"
+          roundedCircle
+          style={{ marginRight: '7px'}}
+          title="Menin ( Bot Staff )"
+        />
+
+        <Image
+          src="https://davatar.bots.wtf/701681797926223962"
+          alt="Shivank_best Image"
+          width="171"
+          height="180"
+          roundedCircle
+          style={{ marginRight: '7px'}}
+          title="Menin ( Bot Staff )"
         />
 
         {/*

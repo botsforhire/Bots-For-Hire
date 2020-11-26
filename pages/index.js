@@ -32,7 +32,7 @@ class HomePage extends React.Component {
       <Layout style={{ textAlign: 'center' }}>
         <style jsx>{`
           *{
-            font-family: "Times New Roman", Times, serif;
+            font-family: LeagueSpartan-Bold;
           }
 
           .step{
@@ -43,12 +43,16 @@ class HomePage extends React.Component {
           }
 
           h2{
-            font-family: Minya; 
+            font-family: Minya;
           }
 
         `}</style>
         <head>
-          <style>{'@font-face { font-family: DisposableDroidBB; src: url(DisposableDroidBB.ttf) }; @font-face { font-family: Minya; src: url(minya.ttf) };'}</style>
+          <style>{'@font-face { font-family: DisposableDroidBB; src: url(DisposableDroidBB.ttf) }'}</style>
+
+          <style>{`@font-face { font-family: Minya; src: url(minya.ttf) }`}</style>
+
+          <style>{`@font-face { font-family: LeagueSpartan-Bold; src: url(LeagueSpartan-Bold.otf) }`}</style>
           <title>Bots For Hire</title>
         </head>
         <br/><br/>

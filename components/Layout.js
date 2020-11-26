@@ -5,42 +5,24 @@ import { FaPatreon } from 'react-icons/fa'
 function Layout(props) {
   return (
     <div>
-      <div id="navbar">
-        <Navbar bg="light" expand="lg" sticky="top">
-          <Navbar.Brand href="/">
-            <img
-            alt="Bots For Hire Logo"
-            src="/logos/logo.png"
-            width="30"
-            height="30"
-            className="d-inline-block align-top"
-          />{' '}
-          Bots For Hire</Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="mr-auto">
-              <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="/about">About Us</Nav.Link>
-              <Nav.Link href="/staff">Our Team</Nav.Link>
+      <style>{`#navbar *{display: inline-block;}`}</style>
+      <div id="navbar" style={{ backgroundColor: '#50c878', width: `100%`, padding: `10px 10px`, display: `inline-block`}}>
+        <img
+          src={`/logos/logo.png`}
+          width={`50px`}
+          height={`50px`}
+          alt={`Bots For Hire Logo`}
+          style={{ display: `inline-block`, borderRadius: `50%`}}
+        />
 
-              <Nav.Link href="https://patreon.com/botsforhire" title="Our Patreon"><FaPatreon/></Nav.Link>
-              </Nav>
+        <h5>Bots For Hire</h5>
 
-            <Button href="https://discord.gg/Pgr4FJn">Contact Us</Button>
-          </Navbar.Collapse>
-        </Navbar>
+        <Link href="https://patreon.com/botsforhire"><div style={{ marginLeft: '15px', cursor: 'pointer'}}><a><FaPatreon/></a></div></Link>
+      </div><br/>
+
+      <div style={props.style}>
+        {props.children}
       </div>
-      <br /><br /><br />
-      <div style={props.style}>{props.children}</div>
-
-      <footer className="page-footer font-small blue">
-
-				
-				<div className="footer-copyright text-center py-3">All bots are subject to the <Link href="/terms"><a>terms of service</a></Link>.</div>
-				
-				
-
-      </footer>
     </div>
   )
 }

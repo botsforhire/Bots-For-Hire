@@ -1,37 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-      <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-          
-                      <url>
-                          <loc>https://bots.wtf/</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://bots.wtf/partners</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://bots.wtf/staff</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://bots.wtf/terms</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://bots.wtf/about/index</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://bots.wtf/public/arc-sw</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://bots.wtf/public/robots.txt</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://bots.wtf/public/sitemap.xml</loc>
-                      </url>
-                  
-      </urlset>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+          <loc>https://bots.wtf/</loc>
+        </url>
+        <url>
+          <loc>https://bots.wtf/terms</loc>
+        </url>
+        <url>
+          <loc>https://bots.wtf/arc-sw</loc>
+        </url>
+        <url>
+          <loc>https://bots.wtf/robots.txt</loc>
+        </url>
+        <url>
+          <loc>https://bots.wtf/sitemap.xml</loc>
+        </url>
+        
+  </urlset>
   

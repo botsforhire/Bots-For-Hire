@@ -13,6 +13,7 @@ class DocumentP extends Document {
 
           <meta name="title" content="Bots For Hire"/>
           <meta name="tags" content="bots, discord-bots, bots-for-hire, free-bots, bot, discord, discordapp, wumpus, bth"/>
+          
           <meta name="theme-color" content="#50c878" />
           <meta name="og:title" content="Bots For Hire" />
           <meta name="og:description" content="Bots For Hire is a organization that gives out free custom bots. No need to buy a discord bot with modmail for $3 when you can get one for free at Bots For Hire. Feel free to check out our awesome staff at our discord server. They work 24/7 to make sure that everyone who needs a bot will get one." /><meta name="description" content="Bots For Hire is a organization that gives out free custom bots. No need to buy a discord bot with modmail for $3 when you can get one for free at Bots For Hire. Feel free to check out our awesome staff at our discord server. They work 24/7 to make sure that everyone who needs a bot will get one."/>

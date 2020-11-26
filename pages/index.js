@@ -6,7 +6,7 @@ import { Button, Card, Carousel } from "react-bootstrap"
 
 function Staff({ id, children }){
   return (
-    <div style={{ display: 'inline-block', marginLeft: '12px'}}>
+    <div style={{ display: 'inline-block', marginLeft: '25px'}}>
       <img 
         src={`https://davatar.bots.wtf/${id}`}
         alt={`${id}`}
@@ -40,6 +40,7 @@ class HomePage extends React.Component {
             height: 290px;
             display: inline-block;
             margin: 9px;
+            text-align: center;
           }
 
           h2{
@@ -65,7 +66,7 @@ class HomePage extends React.Component {
 
         { ' ' }
 
-        <Link href="mailto:partners@bots.wtf"><Button variant="warning">Sponsor Us</Button></Link>
+        <Link href="mailto:partners@bots.wtf"><a><Button variant="warning">Sponsor Us</Button></a></Link>
 
         <br/><hr/>
 
@@ -85,7 +86,7 @@ class HomePage extends React.Component {
 
           <div className="step">
             <h4>Deployment!</h4>
-            <p>Once the staff is done building and deploying your bot, a invite link will be generated for your bot based on the permissions it need. This is the testing stage.</p>
+            <p>Once the staff is done building and deploying your bot, a invite link will be generated for your bot based on the permissions it need. This is the testing stage. Report bugs </p>
           </div>
         </div>
 

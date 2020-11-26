@@ -15,7 +15,7 @@ function Layout(props) {
           style={{ display: `inline-block`, borderRadius: `50%`}}
         />
 
-        <h5>Bots For Hire</h5>
+        <h5 style={{ fontFamily: 'LeagueSpartan-Bold'}}>Bots For Hire</h5>
 
         <Link href="https://patreon.com/botsforhire"><div style={{ marginLeft: '15px', cursor: 'pointer'}}><a><FaPatreon/></a></div></Link>
       </div><br/>

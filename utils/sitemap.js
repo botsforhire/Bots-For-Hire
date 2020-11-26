@@ -1,7 +1,7 @@
 const fs = require('fs')
 const globby = require('globby')
 
-var ignoredExtensions = ['ttf']
+var ignoredExtensions = ['ttf', 'otf']
 var ignoredFiles = ['arc-sw']
 
 async function generateSiteMap() {

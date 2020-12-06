@@ -10,6 +10,9 @@
           <loc>https://bots.wtf/arc-sw</loc>
         </url>
         <url>
+          <loc>https://bots.wtf/global.css</loc>
+        </url>
+        <url>
           <loc>https://bots.wtf/robots.txt</loc>
         </url>
         <url>

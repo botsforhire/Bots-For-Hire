@@ -1,10 +1,11 @@
+const withSourceMaps = require('@zeit/next-source-maps')
 
-module.exports = {
-  webpack: (config, { isServer }) => {
-    if (isServer) {
+module.exports = withSourceMaps({
+  webpack(config, { isServer }){
+    if(isServer){
       require('./utils/sitemap')
     }
 
     return config
   }
-}
+})

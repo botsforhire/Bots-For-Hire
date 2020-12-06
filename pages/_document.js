@@ -7,21 +7,23 @@ class DocumentP extends Document {
   }
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
-          <link rel="icon" href="/logos/logo.png" />
+          <link rel="icon" href="/logos/logo.webp" />
 
           <meta name="title" content="Bots For Hire"/>
           <meta name="tags" content="bots, discord-bots, bots-for-hire, free-bots, bot, discord, discordapp, wumpus, bth"/>
           
+          <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
           <meta name="theme-color" content="#50c878" />
           <meta name="og:title" content="Bots For Hire" />
           <meta name="og:description" content="Bots For Hire is a organization that gives out free custom bots. No need to buy a discord bot with modmail for $3 when you can get one for free at Bots For Hire. Feel free to check out our awesome staff at our discord server. They work 24/7 to make sure that everyone who needs a bot will get one." /><meta name="description" content="Bots For Hire is a organization that gives out free custom bots. No need to buy a discord bot with modmail for $3 when you can get one for free at Bots For Hire. Feel free to check out our awesome staff at our discord server. They work 24/7 to make sure that everyone who needs a bot will get one."/>
-          <meta name="og:image" content="/logos/logo.png" />
+          <meta name="og:image" content="/logos/logo.webp" />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:title" content="Bots For Hire" />
           <meta name="twitter:description" content="Bots For Hire is a organization that gives out free custom bots. No need to buy a discord bot with modmail for $3 when you can get one for free at Bots For Hire. Feel free to check out our awesome staff at our discord server. They work 24/7 to make sure that everyone who needs a bot will get one." />
-          <meta name="twitter:image" content="/logos/logo.png" />
+          <meta name="twitter:image" content="/logos/logo.webp" />
           <meta name="twitter:site" content="@plop_daniel" />
 
 

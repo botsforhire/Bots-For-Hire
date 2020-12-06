@@ -60,19 +60,19 @@ class HomePage extends React.Component {
 
         <h1 style={{ fontFamily: 'DisposableDroidBB', fontSize: '90px'}}>Bots For Hire</h1>
 
-        <i className="text-muted">Over 300 free discord bots made!</i><br/><br/>
+        <i className="text-muted" style={{ fontFamily: '12px'}}>Over 300 free discord bots made!</i><br/><br/>
 
-        <Link href="https://discord.gg/Pgr4FJn"><a><Button variant="primary">Discord Server</Button></a></Link>
+        <Link href="https://discord.gg/Pgr4FJn" style={{ marginLeft: '8px'}}><a><Button variant="primary">Discord Server</Button></a></Link>
 
         { ' ' }
 
-        <Link href="mailto:partners@bots.wtf"><a><Button variant="warning">Sponsor Us</Button></a></Link>
+        <Link href="mailto:partners@bots.wtf" style={{ marginLeft: '8px'}}><a><Button variant="warning">Sponsor Us</Button></a></Link>
 
         <br/><hr/>
 
         <div>
           <h2>How It Works</h2>
-          <i className="text-muted">It only takes 3 very easy steps!</i><br/><br/>
+          <i className="text-muted" style={{ fontFamily: '12px'}}>It only takes 3 very easy steps!</i><br/><br/>
 
           <div className="step">
             <h4>Planning</h4>

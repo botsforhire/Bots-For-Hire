@@ -8,7 +8,7 @@ function Layout(props) {
       <style>{`#navbar *{display: inline-block;}`}</style>
       <div id="navbar" style={{ backgroundColor: '#50c878', width: `100%`, padding: `10px 10px`, display: `inline-block`}}>
         <img
-          src={`/logos/logo.png`}
+          src={`/logos/logo.webp`}
           width={`50px`}
           height={`50px`}
           alt={`Bots For Hire Logo`}

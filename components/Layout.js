@@ -17,7 +17,7 @@ function Layout(props) {
 
         <h5 style={{ fontFamily: 'LeagueSpartan-Bold'}}>Bots For Hire</h5>
 
-        <Link href="https://patreon.com/botsforhire"><div style={{ marginLeft: '15px', cursor: 'pointer'}}><a><FaPatreon/></a></div></Link>
+        <Link href="https://patreon.com/botsforhire"><a style={{ color: ''}}><div style={{ marginLeft: '15px', cursor: 'pointer'}}><FaPatreon/></div></a></Link>
       </div><br/>
 
       <div style={props.style}>

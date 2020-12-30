@@ -81,7 +81,7 @@ class HomePage extends React.Component {
 
           <div className="step">
             <h4>Development</h4>
-            <p>Next, one of our awesome staff is tasked with creating your bot. They will be given all the information that you sent. Our system will pick the best staff for your order.</p>
+            <p>Next, one of our awesome staff are tasked with creating your bot. They will be given all the information that you sent. Our system will pick the best staff for your order.</p>
           </div>
 
           <div className="step">
